@@ -1,0 +1,119 @@
+.Titre1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+}
+.Texte1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-align: justify;
+}
+.LigneMonnaie {
+	height: 40px;
+}
+.Avers {
+	height: 40px;
+	text-align: right;
+	vertical-align: middle;
+}	
+.Revers {
+	height: 40px;
+	text-align: left;
+	vertical-align: middle;
+}
+.DescriptionMonnaie {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	vertical-align: middle;
+	table-layout: fixed;
+	text-align: justify;
+}
+.TitreMonnaie {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	vertical-align: text-bottom;
+	table-layout: fixed;
+	text-align: left;
+	font-weight: bold;
+	background-color: #990000;
+	color: #FFFFFF;
+	display: block;
+	line-height: 22px;
+}
+.Photo {
+	float: left;
+	margin-right: 1em
+}
+.FinPhoto {
+	clear: left
+}
+.TempoDescriptionMonnaie {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	vertical-align: middle;
+	table-layout: fixed;
+	text-align: left;
+	color: #999999;
+}
+.Titre {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	vertical-align: text-bottom;
+	table-layout: fixed;
+	text-align: left;
+	font-weight: bold;
+	line-height: 32px;
+	font-variant: normal;
+	text-decoration: underline;
+}
+.Définition {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-align: left;
+	vertical-align: top;
+	font-weight: bold;
+}
+.DéfinitionLettre {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	text-align: left;
+	vertical-align: top;
+	font-weight: bold;
+}
+#Layer1 {
+	position:absolute;
+	left:12px;
+	top:24px;
+	width:492px;
+	height:26px;
+	z-index:1;
+}
+.RefLien {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-align: left;
+	vertical-align: top;
+	font-weight: normal;
+}
+.LienSource {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8px;
+	text-align: left;
+	vertical-align: top;
+	font-weight: normal;
+	font-style: italic;
+	color: #666666;
+}
+.Titre2 {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+}
+.TitreSerie {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	vertical-align: middle;
+	font-weight: bold;
+}

@@ -1,0 +1,1026 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="monnaies argents ors pieces anciennes numismatique">
+   <meta name="keywords" content="monnaies argents ors pieces anciennes numismatique">
+    
+    <!-- AdSense -->
+    <meta name="google-adsense-account" content="ca-pub-5288172791580511">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5288172791580511" crossorigin="anonymous"></script>
+    <link rel="icon" type="images/png" href="images/favicon.png">
+    
+  
+  <title>Les Monnaies à travers l'Histoire de France</title>
+  <meta name="description" content="Cinq siècles d'Histoire de France racontés par les monnaies. Collection personnelle de François Ier (1515) à l'euro (2002)." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <!-- Preload critical banner for better LCP -->
+  <link rel="preload" as="image" href="banner.webp" type="image/webp" />
+  <link rel="preload" as="image" href="banner-mobile.webp" type="image/webp" media="(max-width: 768px)" />
+  <style>
+    :root {
+      --bg-deep: #0a0a0b;
+      --bg-card: #121214;
+      --bg-elevated: #1a1a1d;
+      --gold: #c9a227;
+      --gold-light: #e8d48b;
+      --gold-dark: #8a7019;
+      --bordeaux: #7a1f1f;
+      --bordeaux-light: #a83232;
+      --text: #e8e6e3;
+      --text-muted: #9a9690;
+      --border: rgba(201, 162, 39, 0.18);
+      --radius: 16px;
+      --transition: 0.4s cubic-bezier(0.22, 1, 0.36, 1);
+    }
+
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: 'Inter', system-ui, sans-serif;
+      background: var(--bg-deep);
+      color: var(--text);
+      line-height: 1.6;
+      overflow-x: hidden;
+    }
+
+    /* Subtle animated background */
+    .bg-glow {
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      z-index: 0;
+      background:
+        radial-gradient(ellipse 80% 50% at 20% -10%, rgba(201, 162, 39, 0.06), transparent),
+        radial-gradient(ellipse 60% 40% at 90% 20%, rgba(122, 31, 31, 0.08), transparent),
+        radial-gradient(ellipse 50% 30% at 50% 100%, rgba(201, 162, 39, 0.04), transparent);
+    }
+
+    /* ===== NAV ===== */
+    nav {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 100;
+      padding: 1.1rem 2.5rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background: rgba(10, 10, 11, 0.55);
+      backdrop-filter: blur(16px);
+      border-bottom: 1px solid rgba(201, 162, 39, 0.12);
+      transition: var(--transition);
+    }
+
+    nav.scrolled {
+      padding: 0.75rem 2.5rem;
+      background: rgba(10, 10, 11, 0.92);
+      border-bottom-color: var(--border);
+    }
+
+    .logo {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.45rem;
+      font-weight: 600;
+      letter-spacing: 0.04em;
+      color: var(--gold-light);
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+    }
+
+    .logo-mark {
+      width: 28px;
+      height: 28px;
+      border: 1.5px solid var(--gold);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.75rem;
+      color: var(--gold);
+    }
+
+    .nav-links {
+      display: flex;
+      gap: 2.2rem;
+      list-style: none;
+    }
+
+    .nav-links a {
+      color: rgba(255, 255, 255, 0.78);
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 400;
+      letter-spacing: 0.02em;
+      transition: color 0.25s;
+      position: relative;
+    }
+
+    .nav-links a::after {
+      content: '';
+      position: absolute;
+      bottom: -4px;
+      left: 0;
+      width: 0;
+      height: 1px;
+      background: var(--gold);
+      transition: width 0.3s ease;
+    }
+
+    .nav-links a:hover {
+      color: var(--gold-light);
+    }
+
+    .nav-links a:hover::after {
+      width: 100%;
+    }
+
+    .nav-cta {
+      background: linear-gradient(135deg, var(--gold-dark), var(--gold));
+      color: #0a0a0b !important;
+      padding: 0.55rem 1.3rem;
+      border-radius: 100px;
+      font-weight: 500 !important;
+      font-size: 0.85rem !important;
+    }
+
+    .nav-cta::after { display: none !important; }
+
+    .nav-cta:hover {
+      filter: brightness(1.1);
+      color: #0a0a0b !important;
+    }
+
+    .menu-toggle {
+      display: none;
+      background: none;
+      border: none;
+      color: var(--gold);
+      font-size: 1.5rem;
+      cursor: pointer;
+    }
+
+    /* ===== HERO with Banner ===== */
+    .hero {
+      position: relative;
+      width: 100%;
+      min-height: 72vh;
+      display: flex;
+      align-items: flex-end;
+      z-index: 1;
+      overflow: hidden;
+    }
+
+    .hero-banner,
+    .hero-banner img {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center center;
+      z-index: 0;
+    }
+
+    .hero picture {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 0;
+    }
+
+    .hero-overlay {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(
+        to bottom,
+        rgba(10, 10, 11, 0.35) 0%,
+        rgba(10, 10, 11, 0.15) 40%,
+        rgba(10, 10, 11, 0.55) 75%,
+        rgba(10, 10, 11, 0.92) 100%
+      );
+      z-index: 1;
+    }
+
+    .hero-content {
+      position: relative;
+      z-index: 2;
+      width: 100%;
+      max-width: 1140px;
+      margin: 0 auto;
+      padding: 0 2.5rem 3.5rem;
+    }
+
+    .hero-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.35rem 0.9rem;
+      background: rgba(201, 162, 39, 0.15);
+      border: 1px solid rgba(201, 162, 39, 0.3);
+      border-radius: 100px;
+      font-size: 0.78rem;
+      color: var(--gold-light);
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      margin-bottom: 1.2rem;
+      animation: fadeUp 0.9s ease both;
+      backdrop-filter: blur(8px);
+    }
+
+    .hero-badge span {
+      width: 6px;
+      height: 6px;
+      background: var(--gold);
+      border-radius: 50%;
+      animation: pulse 2s infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.4; transform: scale(0.8); }
+    }
+
+    .hero h1 {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: clamp(2.4rem, 5.5vw, 3.8rem);
+      font-weight: 600;
+      line-height: 1.15;
+      color: #f8f4eb;
+      margin-bottom: 0.8rem;
+      animation: fadeUp 0.9s 0.1s ease both;
+      text-shadow: 0 2px 20px rgba(0,0,0,0.4);
+    }
+
+    .hero h1 em {
+      font-style: italic;
+      color: var(--gold-light);
+    }
+
+    .hero-lead {
+      font-size: 1.1rem;
+      color: rgba(255, 255, 255, 0.82);
+      max-width: 520px;
+      margin-bottom: 1.8rem;
+      font-weight: 300;
+      animation: fadeUp 0.9s 0.2s ease both;
+      text-shadow: 0 1px 8px rgba(0,0,0,0.3);
+    }
+
+    .hero-actions {
+      display: flex;
+      gap: 1rem;
+      flex-wrap: wrap;
+      animation: fadeUp 0.9s 0.3s ease both;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.9rem 1.7rem;
+      border-radius: 100px;
+      font-size: 0.95rem;
+      font-weight: 500;
+      text-decoration: none;
+      transition: all 0.3s ease;
+      cursor: pointer;
+      border: none;
+    }
+
+    .btn-primary {
+      background: linear-gradient(135deg, var(--gold-dark), var(--gold));
+      color: #0a0a0b;
+      box-shadow: 0 4px 20px rgba(201, 162, 39, 0.25);
+    }
+
+    .btn-primary:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 12px 30px rgba(201, 162, 39, 0.35);
+    }
+
+    .btn-ghost {
+      background: rgba(255, 255, 255, 0.08);
+      color: #fff;
+      border: 1px solid rgba(255, 255, 255, 0.25);
+      backdrop-filter: blur(8px);
+    }
+
+    .btn-ghost:hover {
+      border-color: var(--gold);
+      color: var(--gold-light);
+      background: rgba(201, 162, 39, 0.1);
+    }
+
+    /* ===== SECTIONS ===== */
+    section {
+      position: relative;
+      z-index: 1;
+      padding: 6rem 2.5rem;
+    }
+
+    .container {
+      max-width: 1140px;
+      margin: 0 auto;
+    }
+
+    .section-label {
+      font-size: 0.78rem;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--gold);
+      margin-bottom: 0.8rem;
+      font-weight: 500;
+    }
+
+    .section-title {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: clamp(2rem, 4vw, 2.8rem);
+      font-weight: 600;
+      color: #f5f2eb;
+      margin-bottom: 1.2rem;
+      line-height: 1.2;
+    }
+
+    .section-desc {
+      color: var(--text-muted);
+      max-width: 560px;
+      font-size: 1.05rem;
+      font-weight: 300;
+    }
+
+    /* ===== ABOUT ===== */
+    .about-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 4rem;
+      align-items: center;
+      margin-top: 3.5rem;
+    }
+
+    .about-text p {
+      margin-bottom: 1.2rem;
+      color: var(--text-muted);
+      font-weight: 300;
+    }
+
+    .about-text p strong {
+      color: var(--text);
+      font-weight: 500;
+    }
+
+    .about-stats {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.2rem;
+    }
+
+    .stat-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 1.6rem;
+      transition: var(--transition);
+    }
+
+    .stat-card:hover {
+      border-color: rgba(201, 162, 39, 0.4);
+      transform: translateY(-4px);
+    }
+
+    .stat-number {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 2.4rem;
+      font-weight: 600;
+      color: var(--gold-light);
+      line-height: 1;
+      margin-bottom: 0.3rem;
+    }
+
+    .stat-label {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+    }
+
+    /* ===== FEATURED COIN ===== */
+    .featured {
+      background: linear-gradient(180deg, transparent, rgba(201, 162, 39, 0.03), transparent);
+    }
+
+    .featured-card {
+      display: grid;
+      grid-template-columns: 280px 1fr;
+      gap: 3rem;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 24px;
+      padding: 2.5rem;
+      margin-top: 3rem;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .featured-card::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 3px;
+      background: linear-gradient(90deg, var(--bordeaux), var(--gold), var(--bordeaux));
+    }
+
+    .coin-preview {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 1.2rem;
+    }
+
+    .coin-pair {
+      display: flex;
+      gap: 0.8rem;
+    }
+
+    .mini-coin {
+      width: 110px;
+      height: 110px;
+      border-radius: 50%;
+      background: linear-gradient(145deg, #d4b84a, #9a7a1a);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.4), inset 0 0 20px rgba(255,255,255,0.2);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 0.9rem;
+      color: rgba(0,0,0,0.55);
+      font-weight: 600;
+      position: relative;
+    }
+
+    .mini-coin.revers {
+      background: linear-gradient(145deg, #c9a227, #7a6215);
+    }
+
+    .coin-label {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+
+    .featured-info h3 {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.7rem;
+      color: var(--gold-light);
+      margin-bottom: 0.6rem;
+    }
+
+    .featured-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.6rem;
+      margin-bottom: 1.2rem;
+    }
+
+    .tag {
+      font-size: 0.75rem;
+      padding: 0.3rem 0.7rem;
+      background: rgba(201, 162, 39, 0.1);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      color: var(--gold-light);
+    }
+
+    .featured-desc {
+      color: var(--text-muted);
+      font-size: 0.95rem;
+      margin-bottom: 1.5rem;
+      line-height: 1.7;
+    }
+
+    .featured-desc strong {
+      color: var(--text);
+    }
+
+    /* ===== TIMELINE / PERIODS ===== */
+    .periods-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+      gap: 1.2rem;
+      margin-top: 3rem;
+    }
+
+    .period-card {
+      background: var(--bg-card);
+      border: 1px solid transparent;
+      border-radius: var(--radius);
+      padding: 1.5rem;
+      transition: var(--transition);
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+      text-decoration: none;
+      color: inherit;
+      display: block;
+    }
+
+    .period-card::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 0;
+      bottom: 0;
+      width: 3px;
+      background: var(--gold);
+      opacity: 0;
+      transition: opacity 0.3s;
+    }
+
+    .period-card:hover {
+      border-color: var(--border);
+      background: var(--bg-elevated);
+      transform: translateY(-3px);
+    }
+
+    .period-card:hover::before {
+      opacity: 1;
+    }
+
+    .period-era {
+      font-size: 0.72rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--gold);
+      margin-bottom: 0.4rem;
+    }
+
+    .period-name {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.25rem;
+      font-weight: 600;
+      color: #f0ede8;
+      margin-bottom: 0.3rem;
+    }
+
+    .period-dates {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+    }
+
+    /* ===== JOURNEY CTA ===== */
+    .journey {
+      text-align: center;
+      padding: 7rem 2.5rem;
+    }
+
+    .journey .section-title {
+      max-width: 600px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .journey .section-desc {
+      margin: 0 auto 2.5rem;
+    }
+
+    /* ===== FOOTER ===== */
+    footer {
+      border-top: 1px solid var(--border);
+      padding: 3.5rem 2.5rem 2rem;
+      position: relative;
+      z-index: 1;
+    }
+
+    .footer-grid {
+      max-width: 1140px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: 2fr 1fr 1fr;
+      gap: 3rem;
+      margin-bottom: 3rem;
+    }
+
+    .footer-brand {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.4rem;
+      color: var(--gold-light);
+      margin-bottom: 0.8rem;
+    }
+
+    .footer-text {
+      color: var(--text-muted);
+      font-size: 0.9rem;
+      max-width: 320px;
+      font-weight: 300;
+    }
+
+    .footer-col h4 {
+      font-size: 0.8rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--gold);
+      margin-bottom: 1rem;
+    }
+
+    .footer-col a {
+      display: block;
+      color: var(--text-muted);
+      text-decoration: none;
+      font-size: 0.9rem;
+      margin-bottom: 0.5rem;
+      transition: color 0.2s;
+    }
+
+    .footer-col a:hover {
+      color: var(--gold-light);
+    }
+
+    .footer-bottom {
+      max-width: 1140px;
+      margin: 0 auto;
+      padding-top: 1.5rem;
+      border-top: 1px solid rgba(255,255,255,0.06);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+    }
+
+    /* Animations */
+    @keyframes fadeUp {
+      from {
+        opacity: 0;
+        transform: translateY(24px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    .reveal {
+      opacity: 0;
+      transform: translateY(30px);
+      transition: opacity 0.8s ease, transform 0.8s ease;
+    }
+
+    .reveal.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    /* Responsive */
+    @media (max-width: 960px) {
+      .about-grid,
+      .featured-card,
+      .footer-grid {
+        grid-template-columns: 1fr;
+      }
+      .nav-links {
+        display: none;
+      }
+      .menu-toggle {
+        display: block;
+      }
+      .hero {
+        min-height: 60vh;
+      }
+    }
+
+    @media (max-width: 600px) {
+      nav, section, .hero-content, footer {
+        padding-left: 1.4rem;
+        padding-right: 1.4rem;
+      }
+      .about-stats {
+        grid-template-columns: 1fr;
+      }
+      .featured-card {
+        padding: 1.5rem;
+      }
+      .coin-pair {
+        flex-direction: column;
+      }
+      .hero {
+        min-height: 55vh;
+      }
+      .hero-content {
+        padding-bottom: 2.5rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="bg-glow"></div>
+
+  <!-- NAV -->
+  <nav id="navbar">
+    <a href="index.html" class="logo">
+      <span class="logo-mark">⚜</span>
+      Numismatiques
+    </a>
+    <ul class="nav-links">
+      <li><a href="#collection">La collection</a></li>
+      <li><a href="#derniere">Dernière pièce</a></li>
+      <li><a href="#periodes">Les périodes</a></li>
+      <li><a href="#voyage">Le voyage</a></li>
+      <li><a href="#contact" class="nav-cta">Écrivez-moi</a></li>
+    </ul>
+    <button class="menu-toggle" aria-label="Menu">☰</button>
+  </nav>
+
+  <!-- HERO with Banner -->
+  <header class="hero">
+    <picture class="hero-banner">
+      <!-- Mobile first -->
+      <source
+        media="(max-width: 768px)"
+        srcset="banner-mobile.webp"
+        type="image/webp"
+      />
+      <source
+        media="(max-width: 768px)"
+        srcset="banner-mobile.jpg"
+        type="image/jpeg"
+      />
+      <!-- Desktop -->
+      <source
+        srcset="banner.webp"
+        type="image/webp"
+      />
+      <img
+        src="banner.jpg"
+        alt="Monnaies & Trésors – Pièces Anciennes, Louis d'Or, Argent"
+        width="1792"
+        height="592"
+        fetchpriority="high"
+        decoding="async"
+      />
+    </picture>
+    <div class="hero-overlay"></div>
+
+    <div class="hero-content">
+      <div class="hero-badge">
+        <span></span>
+        
+      </div>
+      <h1><br /><em></em> </h1>
+      <p class="hero-lead">
+        Cinq siècles de notre passé racontés par le métal.<br />
+        De François I<sup>er</sup> (1515) à l’avènement de l’euro (2002).
+      </p>
+      <div class="hero-actions">
+        <a href="#periodes" class="btn btn-primary">
+          Commencer le voyage →
+        </a>
+        <a href="#derniere" class="btn btn-ghost">
+          Dernière découverte
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- ABOUT -->
+  <section id="collection">
+    <div class="container">
+      <p class="section-label reveal">La passion</p>
+      <h2 class="section-title reveal">Une collection née<br />de la curiosité</h2>
+      <div class="about-grid">
+        <div class="about-text reveal">
+          <p>
+            Bienvenue sur ce site de numismatique qui a pour vocation de vous faire découvrir 
+            les <strong>monnaies françaises au travers de notre Histoire de France</strong>… 
+            de François I<sup>er</sup> (1515) à l’avènement de l’euro (2002).
+          </p>
+          <p>
+            Vous y trouverez principalement des pièces de monnaie, mais aussi quelques billets 
+            ou objets afférents à la numismatique… faisant tous partie de ma collection personnelle.
+          </p>
+          <p>
+            Cette passion m’est venue très jeune. Petit, j’étais fasciné par les pièces. 
+            J’ai grandi à une époque où plusieurs nouvelles monnaies sortaient très régulièrement. 
+            Puis, année après année, j’ai commencé à remonter le temps.
+          </p>
+          <p>
+            Aujourd’hui, la numismatique m’a redonné goût à l’histoire de France. 
+            Voici donc <strong>cinq siècles d’histoire</strong> à découvrir par les monnaies…
+          </p>
+        </div>
+        <div class="about-stats reveal">
+          <div class="stat-card">
+            <div class="stat-number">5</div>
+            <div class="stat-label">Siècles d’histoire</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-number">1515</div>
+            <div class="stat-label">Première année</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-number">2002</div>
+            <div class="stat-label">Passage à l’euro</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-number">∞</div>
+            <div class="stat-label">Pièces encore à découvrir</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FEATURED -->
+  <section class="featured" id="derniere">
+    <div class="container">
+      <p class="section-label reveal">Mise en ligne récente</p>
+      <h2 class="section-title reveal">La dernière découverte</h2>
+      <p class="section-desc reveal">La dernière pièce ajoutée à la collection et présentée en détail.</p>
+
+      <div class="featured-card reveal">
+        <div class="coin-preview">
+          <div class="coin-pair">
+            <div class="mini-coin">Avers</div>
+            <div class="mini-coin revers">Revers</div>
+          </div>
+          <span class="coin-label">Henri III · 1577</span>
+        </div>
+        <div class="featured-info">
+          <h3>Henri III — Douzain aux deux H</h3>
+          <div class="featured-meta">
+            <span class="tag">1<sup>er</sup> type</span>
+            <span class="tag">Atelier D · Lyon</span>
+            <span class="tag">Billon</span>
+            <span class="tag">2,19 g</span>
+          </div>
+          <p class="featured-desc">
+            <strong>Date :</strong> 1577 · <strong>Exemplaires :</strong> 650 862<br />
+            Avers : <em>+SIT. NOMEN. DNI. BENEDICT.</em> — Croix échancrée cantonnée de quatre couronnes.<br />
+            Revers : <em>HENRICVS. III. D: G: FRAN. ET. POL. REX.</em> — Écu de France accosté de deux H.<br />
+            Références : C.1450 · L.980 · Dy.1140 · Sb.4398
+          </p>
+          <a href="1574_henri_iii.html" class="btn btn-ghost">Voir la fiche complète →</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PERIODS -->
+  <section id="periodes">
+    <div class="container">
+      <p class="section-label reveal">Le parcours</p>
+      <h2 class="section-title reveal">Voyagez à travers<br />les dynasties</h2>
+      <p class="section-desc reveal">
+        Chaque période de notre histoire a laissé son empreinte dans le métal. 
+        Cliquez pour explorer.
+      </p>
+
+      <div class="periods-grid">
+        <a href="1515_francois_ier.html" class="period-card reveal">
+          <div class="period-era">Les Valois</div>
+          <div class="period-name">François I<sup>er</sup></div>
+          <div class="period-dates">1515 – 1547</div>
+        </a>
+        <a href="1547_henri_ii.html" class="period-card reveal">
+          <div class="period-era">Les Valois</div>
+          <div class="period-name">Henri II → Henri III</div>
+          <div class="period-dates">1547 – 1589</div>
+        </a>
+        <a href="1589_henri_iv.html" class="period-card reveal">
+          <div class="period-era">Les Bourbons</div>
+          <div class="period-name">Henri IV → Louis XVI</div>
+          <div class="period-dates">1589 – 1791</div>
+        </a>
+        <a href="1791_constitution.html" class="period-card reveal">
+          <div class="period-era">Révolution</div>
+          <div class="period-name">Constitution & Assignats</div>
+          <div class="period-dates">1789 – 1792</div>
+        </a>
+        <a href="1792_convention.html" class="period-card reveal">
+          <div class="period-era">I<sup>re</sup> République</div>
+          <div class="period-name">Convention → Consulat</div>
+          <div class="period-dates">1792 – 1804</div>
+        </a>
+        <a href="1804_premier_empire.html" class="period-card reveal">
+          <div class="period-era">Empire</div>
+          <div class="period-name">Premier Empire</div>
+          <div class="period-dates">1804 – 1815</div>
+        </a>
+        <a href="1814_louis_xviii.html" class="period-card reveal">
+          <div class="period-era">Restauration</div>
+          <div class="period-name">Louis XVIII → Charles X</div>
+          <div class="period-dates">1814 – 1830</div>
+        </a>
+        <a href="1830_louis_philippe.html" class="period-card reveal">
+          <div class="period-era">Monarchie</div>
+          <div class="period-name">Louis-Philippe</div>
+          <div class="period-dates">1830 – 1848</div>
+        </a>
+        <a href="1848_deuxieme_republique.html" class="period-card reveal">
+          <div class="period-era">Républiques</div>
+          <div class="period-name">II<sup>e</sup> → V<sup>e</sup> République</div>
+          <div class="period-dates">1848 – aujourd’hui</div>
+        </a>
+        <a href="192x_monnaies_necessite.html" class="period-card reveal">
+          <div class="period-era">XX<sup>e</sup> siècle</div>
+          <div class="period-name">Guerres & Nécessité</div>
+          <div class="period-dates">1914 – 1945</div>
+        </a>
+        <a href="1958_commemoratives.html" class="period-card reveal">
+          <div class="period-era">Contemporain</div>
+          <div class="period-name">Commémoratives</div>
+          <div class="period-dates">1958 – 2001</div>
+        </a>
+        <a href="2002_euro.html" class="period-card reveal">
+          <div class="period-era">Nouvelle ère</div>
+          <div class="period-name">Le passage à l’euro</div>
+          <div class="period-dates">2002</div>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- JOURNEY -->
+  <section class="journey" id="voyage">
+    <div class="container">
+      <p class="section-label reveal">Prêt ?</p>
+      <h2 class="section-title reveal">Cinq siècles vous attendent</h2>
+      <p class="section-desc reveal">
+        De la Renaissance à l’euro, chaque pièce est une porte ouverte sur une époque.  
+        Bon voyage…
+      </p>
+      <div class="hero-actions" style="justify-content: center;">
+        <a href="#periodes" class="btn btn-primary">Explorer les périodes</a>
+        <a href="mailto:" class="btn btn-ghost">Me contacter</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer id="contact">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-brand">Numismatiques</div>
+        <p class="footer-text">
+          Les Monnaies à travers l’Histoire de France.  
+          Collection personnelle présentée avec passion depuis 1950.
+        </p>
+      </div>
+      <div class="footer-col">
+        <h4>Explorer</h4>
+        <a href="#collection">La collection</a>
+        <a href="#derniere">Dernière pièce</a>
+        <a href="#periodes">Les périodes</a>
+        <a href="lexique.html">Lexique</a>
+        <a href="liens.html">Liens utiles</a>
+      </div>
+      <div class="footer-col">
+        <h4>Contact</h4>
+        <a href="mailto:"></a>
+        <a href="nouveautes.html">Nouveautés</a>
+        <a href="technique_fabrication.html">Techniques de frappe</a>
+        <a href="poids_des_monnaies.html">Poids des monnaies</a>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© 1950 – 2026 · Collection personnelle</span>
+      <span>Fait avec passion pour la numismatique française</span>
+    </div>
+  </footer>
+
+  <script>
+    // Navbar scroll effect
+    const navbar = document.getElementById('navbar');
+    window.addEventListener('scroll', () => {
+      navbar.classList.toggle('scrolled', window.scrollY > 40);
+    });
+
+    // Reveal on scroll
+    const reveals = document.querySelectorAll('.reveal');
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('visible');
+        }
+      });
+    }, { threshold: 0.12 });
+
+    reveals.forEach(el => observer.observe(el));
+  </script>
+</body>
+</html>
