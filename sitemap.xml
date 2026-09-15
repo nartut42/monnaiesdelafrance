@@ -1,235 +1,2349 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-       <loc>https://monnaiesdelafrance.fr/</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>1.0000</priority>
+    <loc>https://monnaiesdelafrance.fr/1515_francois_ier.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1515_francois_ier/portrait.jpg</image:loc>
+      <image:title>Portrait de François Ier, roi de France (1515-1547), d' title=</image:title>
+      <image:caption>Portrait de François Ier, roi de France (1515-1547), d' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1515_francois_ier/s_double_tournois_c1184_avers.gif</image:loc>
+      <image:title>Double tournois à la croisette, 1er type – avers de la monnaie française</image:title>
+      <image:caption>Double tournois à la croisette, 1er type – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1515_francois_ier/s_double_tournois_c1184_revers.gif</image:loc>
+      <image:title>Double tournois à la croisette, 1er type – revers de la monnaie française</image:title>
+      <image:caption>Double tournois à la croisette, 1er type – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/index.html</loc>
-       <lastmod>2026-09-13T20:58:45+00:00</lastmod>
-       <priority>0.8000</priority>
+    <loc>https://monnaiesdelafrance.fr/1547_henri_ii.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1547_henri_ii/portrait.jpg</image:loc>
+      <image:title>Portrait de Henri II, roi de France (1547-1559), d' title=</image:title>
+      <image:caption>Portrait de Henri II, roi de France (1547-1559), d' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1547_henri_ii/s_teston_avers.gif</image:loc>
+      <image:title>Teston, 2e type – avers de la monnaie française</image:title>
+      <image:caption>Teston, 2e type – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1547_henri_ii/s_teston_revers.gif</image:loc>
+      <image:title>Teston, 2e type – revers de la monnaie française</image:title>
+      <image:caption>Teston, 2e type – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1547_henri_ii/s_c1305_douzain_croissants_avers.gif</image:loc>
+      <image:title>Douzain aux croissants – avers de la monnaie française</image:title>
+      <image:caption>Douzain aux croissants – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1547_henri_ii/s_c1305_douzain_croissants_revers.gif</image:loc>
+      <image:title>Douzain aux croissants – revers de la monnaie française</image:title>
+      <image:caption>Douzain aux croissants – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1574_henri_iii.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.8000</priority>
+    <loc>https://monnaiesdelafrance.fr/1559_francois_ii.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1559_francois_ii/portrait.jpg</image:loc>
+      <image:title>Portrait de François II, roi de France (1559-1560)</image:title>
+      <image:caption>Portrait de François II, roi de France (1559-1560)</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1515_francois_ier.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.8000</priority>
+    <loc>https://monnaiesdelafrance.fr/1560_charles_ix.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1560_charles_ix/portrait.jpg</image:loc>
+      <image:title>Portrait de Charles IX, roi de France (1560-1574), d' title=</image:title>
+      <image:caption>Portrait de Charles IX, roi de France (1560-1574), d' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1560_charles_ix/s_c1356_teston_type2_avers.gif</image:loc>
+      <image:title>Teston, 2e type – avers de la monnaie française</image:title>
+      <image:caption>Teston, 2e type – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1560_charles_ix/s_c1356_teston_type2_revers.gif</image:loc>
+      <image:title>Teston, 2e type – revers de la monnaie française</image:title>
+      <image:caption>Teston, 2e type – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1547_henri_ii.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.8000</priority>
+    <loc>https://monnaiesdelafrance.fr/1574_henri_iii.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1574_henri_iii/portrait.jpg</image:loc>
+      <image:title>Portrait de Henri III, roi de France (1574-1589)</image:title>
+      <image:caption>Portrait de Henri III, roi de France (1574-1589)</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1574_henri_iii/s_quart_ecu_c1483_avers.gif</image:loc>
+      <image:title>Quart d' title=</image:title>
+      <image:caption>Quart d' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1574_henri_iii/s_quart_ecu_c1483_revers.gif</image:loc>
+      <image:title>Quart d' title=</image:title>
+      <image:caption>Quart d' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1574_henri_iii/s_douzain_2H_c1450_avers.gif</image:loc>
+      <image:title>Douzain aux deux H, 1er type – avers de la monnaie française</image:title>
+      <image:caption>Douzain aux deux H, 1er type – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1574_henri_iii/s_douzain_2H_c1450_revers.gif</image:loc>
+      <image:title>Douzain aux deux H, 1er type – revers de la monnaie française</image:title>
+      <image:caption>Douzain aux deux H, 1er type – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1589_henri_iv.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.8000</priority>
+    <loc>https://monnaiesdelafrance.fr/1589_henri_iv.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1589_henri_iv/portrait.jpg</image:loc>
+      <image:title>Portrait de Henri IV, roi de France (1589-1610)</image:title>
+      <image:caption>Portrait de Henri IV, roi de France (1589-1610)</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1589_henri_iv/s_demi_franc_c1534_avers.gif</image:loc>
+      <image:title>Demi-franc, type de Toulouse – avers de la monnaie française</image:title>
+      <image:caption>Demi-franc, type de Toulouse – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1589_henri_iv/s_demi_franc_c1534_revers.gif</image:loc>
+      <image:title>Demi-franc, type de Toulouse – revers de la monnaie française</image:title>
+      <image:caption>Demi-franc, type de Toulouse – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1589_henri_iv/s_quart_ecu_c1517_avers.gif</image:loc>
+      <image:title>Quart d' title=</image:title>
+      <image:caption>Quart d' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1589_henri_iv/s_quart_ecu_c1517_revers.gif</image:loc>
+      <image:title>Quart d' title=</image:title>
+      <image:caption>Quart d' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1589_henri_iv/s_c1576_double_tournois_avers.gif</image:loc>
+      <image:title>Double tournois, 1er type de Paris (légende française) – avers de la monnaie française</image:title>
+      <image:caption>Double tournois, 1er type de Paris (légende française) – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1589_henri_iv/s_c1576_double_tournois_revers.gif</image:loc>
+      <image:title>Double tournois, 1er type de Paris (légende française) – revers de la monnaie française</image:title>
+      <image:caption>Double tournois, 1er type de Paris (légende française) – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1791_constitution.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.8000</priority>
+    <loc>https://monnaiesdelafrance.fr/1590_charles_x_ligue.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1590_charles_x_ligue/charles_x.gif</image:loc>
+      <image:title>Portrait de Charles X de Bourbon, roi de la Ligue (1589-1590)</image:title>
+      <image:caption>Portrait de Charles X de Bourbon, roi de la Ligue (1589-1590)</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1590_charles_x_ligue/s_c1485_quart_avers.gif</image:loc>
+      <image:title>Quart d' title=</image:title>
+      <image:caption>Quart d' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1590_charles_x_ligue/s_c1485_quart_revers.gif</image:loc>
+      <image:title>Quart d' title=</image:title>
+      <image:caption>Quart d' title=</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1792_convention.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.8000</priority>
+    <loc>https://monnaiesdelafrance.fr/1610_louis_xiii.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1610_louis_xiii/portrait.jpg</image:loc>
+      <image:title>Portrait de Louis XIII par Philippe de Champaigne</image:title>
+      <image:caption>Portrait de Louis XIII par Philippe de Champaigne</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1610_louis_xiii/s_c1692_quart_avers.gif</image:loc>
+      <image:title>Quart d' title=</image:title>
+      <image:caption>Quart d' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1610_louis_xiii/s_c1692_quart_revers.gif</image:loc>
+      <image:title>Quart d' title=</image:title>
+      <image:caption>Quart d' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1610_louis_xiii/s_dr91_double_tournois_avers.gif</image:loc>
+      <image:title>Double tournois, type 2 de Paris (buste juvénile au col rabattu) – avers de la monnaie française</image:title>
+      <image:caption>Double tournois, type 2 de Paris (buste juvénile au col rabattu) – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1610_louis_xiii/s_dr91_double_tournois_revers.gif</image:loc>
+      <image:title>Double tournois, type 2 de Paris (buste juvénile au col rabattu) – revers de la monnaie française</image:title>
+      <image:caption>Double tournois, type 2 de Paris (buste juvénile au col rabattu) – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1610_louis_xiii/s_c1725_denier_avers.gif</image:loc>
+      <image:title>Denier tournois, type 1 – avers de la monnaie française</image:title>
+      <image:caption>Denier tournois, type 1 – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1610_louis_xiii/s_c1725_denier_revers.gif</image:loc>
+      <image:title>Denier tournois, type 1 – revers de la monnaie française</image:title>
+      <image:caption>Denier tournois, type 1 – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1804_premier_empire.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.8000</priority>
+    <loc>https://monnaiesdelafrance.fr/1643_louis_xiv.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1643_louis_xiv/portrait.jpg</image:loc>
+      <image:title>Portrait de Louis XIV, le Roi-Soleil (1643-1715)</image:title>
+      <image:caption>Portrait de Louis XIV, le Roi-Soleil (1643-1715)</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1643_louis_xiv/s_c1836_douzieme_meche_courte_avers.gif</image:loc>
+      <image:title>Douzième d' title=</image:title>
+      <image:caption>Douzième d' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1643_louis_xiv/s_c1836_douzieme_meche_courte_revers.gif</image:loc>
+      <image:title>Douzième d' title=</image:title>
+      <image:caption>Douzième d' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1643_louis_xiv/s_c1852_douzieme_meche_longue_avers.gif</image:loc>
+      <image:title>Douzième d' title=</image:title>
+      <image:caption>Douzième d' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1643_louis_xiv/s_c1852_douzieme_meche_longue_revers.gif</image:loc>
+      <image:title>Douzième d' title=</image:title>
+      <image:caption>Douzième d' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1643_louis_xiv/s_c1865_douzieme_buste_juvenile_avers.gif</image:loc>
+      <image:title>Douzième d' title=</image:title>
+      <image:caption>Douzième d' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1643_louis_xiv/s_c1865_douzieme_buste_juvenile_revers.gif</image:loc>
+      <image:title>Douzième d' title=</image:title>
+      <image:caption>Douzième d' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1643_louis_xiv/s_c1892_douzieme_8l_type1_avers_avers.gif</image:loc>
+      <image:title>Douzième d' title=</image:title>
+      <image:caption>Douzième d' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1643_louis_xiv/s_c1892_douzieme_8l_type1_avers_revers.gif</image:loc>
+      <image:title>Douzième d' title=</image:title>
+      <image:caption>Douzième d' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1643_louis_xiv/s_c1961_10sols_4couronnes_avers.gif</image:loc>
+      <image:title>Dix Sols aux 4 Couronnes – avers de la monnaie française</image:title>
+      <image:caption>Dix Sols aux 4 Couronnes – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1643_louis_xiv/s_c1961_10sols_4couronnes_revers.gif</image:loc>
+      <image:title>Dix Sols aux 4 Couronnes – revers de la monnaie française</image:title>
+      <image:caption>Dix Sols aux 4 Couronnes – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1643_louis_xiv/s_c1964_10sols_insignes_avers.gif</image:loc>
+      <image:title>Dix Sols aux Insignes – avers de la monnaie française</image:title>
+      <image:caption>Dix Sols aux Insignes – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1643_louis_xiv/s_c1964_10sols_insignes_revers.gif</image:loc>
+      <image:title>Dix Sols aux Insignes – revers de la monnaie française</image:title>
+      <image:caption>Dix Sols aux Insignes – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1643_louis_xiv/s_c1965_5sols_insignes_avers.gif</image:loc>
+      <image:title>Cinq Sols aux Insignes – avers de la monnaie française</image:title>
+      <image:caption>Cinq Sols aux Insignes – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1643_louis_xiv/s_c1965_5sols_insignes_revers.gif</image:loc>
+      <image:title>Cinq Sols aux Insignes – revers de la monnaie française</image:title>
+      <image:caption>Cinq Sols aux Insignes – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1814_louis_xviii.html</loc>
-       <lastmod>2026-09-13T20:58:45+00:00</lastmod>
-       <priority>0.8000</priority>
+    <loc>https://monnaiesdelafrance.fr/1715_louis_xv.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1715_louis_xv/portrait.jpg</image:loc>
+      <image:title>Portrait de Louis XV, roi de France (1715-1774)</image:title>
+      <image:caption>Portrait de Louis XV, roi de France (1715-1774)</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1715_louis_xv/s_c2099_dixieme_ecu_vertugadin_avers.gif</image:loc>
+      <image:title>Dixième d' title=</image:title>
+      <image:caption>Dixième d' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1715_louis_xv/s_c2099_dixieme_ecu_vertugadin_revers.gif</image:loc>
+      <image:title>Dixième d' title=</image:title>
+      <image:caption>Dixième d' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1715_louis_xv/s_c2143_liard_buste_enfantin_avers.gif</image:loc>
+      <image:title>Liard au buste enfantin – avers de la monnaie française</image:title>
+      <image:caption>Liard au buste enfantin – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1715_louis_xv/s_c2143_liard_buste_enfantin_revers.gif</image:loc>
+      <image:title>Liard au buste enfantin – revers de la monnaie française</image:title>
+      <image:caption>Liard au buste enfantin – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1715_louis_xv/s_c2109_tiers_ecu_france_avers.gif</image:loc>
+      <image:title>Tiers d' title=</image:title>
+      <image:caption>Tiers d' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1715_louis_xv/s_c2109_tiers_ecu_france_revers.gif</image:loc>
+      <image:title>Tiers d' title=</image:title>
+      <image:caption>Tiers d' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1715_louis_xv/s_c2127_dixieme_ecu_bandeau_avers.gif</image:loc>
+      <image:title>Dixième d' title=</image:title>
+      <image:caption>Dixième d' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1715_louis_xv/s_c2127_dixieme_ecu_bandeau_revers.gif</image:loc>
+      <image:title>Dixième d' title=</image:title>
+      <image:caption>Dixième d' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1715_louis_xv/s_c2129_ecu_vieille_tete_avers.gif</image:loc>
+      <image:title>Ecu dit &amp;quot;à la vieille tête&amp;quot; – avers de la monnaie française</image:title>
+      <image:caption>Ecu dit &amp;quot;à la vieille tête&amp;quot; – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1715_louis_xv/s_c2129_ecu_vieille_tete_revers.gif</image:loc>
+      <image:title>Ecu dit &amp;quot;à la vieille tête&amp;quot; – revers de la monnaie française</image:title>
+      <image:caption>Ecu dit &amp;quot;à la vieille tête&amp;quot; – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1715_louis_xv/s_c2149_liard_vieille_tete_avers.gif</image:loc>
+      <image:title>Liard dit &amp;quot;à la vieille tête&amp;quot; – avers de la monnaie française</image:title>
+      <image:caption>Liard dit &amp;quot;à la vieille tête&amp;quot; – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1715_louis_xv/s_c2149_liard_vieille_tete_revers.gif</image:loc>
+      <image:title>Liard dit &amp;quot;à la vieille tête&amp;quot; – revers de la monnaie française</image:title>
+      <image:caption>Liard dit &amp;quot;à la vieille tête&amp;quot; – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1830_louis_philippe.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.8000</priority>
+    <loc>https://monnaiesdelafrance.fr/1774_louis_xvi.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1774_louis_xvi/portrait.jpg</image:loc>
+      <image:title>Portrait de Louis XVI, dernier roi de l' title=</image:title>
+      <image:caption>Portrait de Louis XVI, dernier roi de l' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1774_louis_xvi/s_c2183_louis_d_or_buste_nu_avers.gif</image:loc>
+      <image:title>Louis d' title=</image:title>
+      <image:caption>Louis d' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1774_louis_xvi/s_c2183_louis_d_or_buste_nu_revers.gif</image:loc>
+      <image:title>Louis d' title=</image:title>
+      <image:caption>Louis d' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1774_louis_xvi/s_c2187_ecu_lauriers_avers.gif</image:loc>
+      <image:title>Ecu dit &amp;quot;aux branches d' title=</image:title>
+      <image:caption>Ecu dit &amp;quot;aux branches d' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1774_louis_xvi/s_c2187_ecu_lauriers_revers.gif</image:loc>
+      <image:title>Ecu dit &amp;quot;aux branches d' title=</image:title>
+      <image:caption>Ecu dit &amp;quot;aux branches d' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1774_louis_xvi/s_c2191_dixieme_avers.gif</image:loc>
+      <image:title>Dixième d' title=</image:title>
+      <image:caption>Dixième d' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1774_louis_xvi/s_c2191_dixieme_revers.gif</image:loc>
+      <image:title>Dixième d' title=</image:title>
+      <image:caption>Dixième d' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1774_louis_xvi/s_c2193_vingtieme_d_ecu_postume_avers.gif</image:loc>
+      <image:title>Vingtième d' title=</image:title>
+      <image:caption>Vingtième d' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1774_louis_xvi/s_c2193_vingtieme_d_ecu_postume_revers.gif</image:loc>
+      <image:title>Vingtième d' title=</image:title>
+      <image:caption>Vingtième d' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1774_louis_xvi/s_c2194_sol_avers.gif</image:loc>
+      <image:title>Sol dit &amp;quot;à l' title=</image:title>
+      <image:caption>Sol dit &amp;quot;à l' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1774_louis_xvi/s_c2194_sol_revers.gif</image:loc>
+      <image:title>Sol dit &amp;quot;à l' title=</image:title>
+      <image:caption>Sol dit &amp;quot;à l' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1774_louis_xvi/s_c2196_demi_sol_avers.gif</image:loc>
+      <image:title>Demi-sol dit &amp;quot;à l' title=</image:title>
+      <image:caption>Demi-sol dit &amp;quot;à l' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1774_louis_xvi/s_c2196_demi_sol_revers.gif</image:loc>
+      <image:title>Demi-sol dit &amp;quot;à l' title=</image:title>
+      <image:caption>Demi-sol dit &amp;quot;à l' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1774_louis_xvi/s_c2197_liard_avers.gif</image:loc>
+      <image:title>Liard dit &amp;quot;à l' title=</image:title>
+      <image:caption>Liard dit &amp;quot;à l' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1774_louis_xvi/s_c2197_liard_revers.gif</image:loc>
+      <image:title>Liard dit &amp;quot;à l' title=</image:title>
+      <image:caption>Liard dit &amp;quot;à l' title=</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1848_deuxieme_republique.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.8000</priority>
+    <loc>https://monnaiesdelafrance.fr/1789_assignats.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1789_assignats/s_laf150_25_sols.gif</image:loc>
+      <image:title>Assignat de 25 Sols</image:title>
+      <image:caption>Assignat de 25 Sols</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1789_assignats/s_laf160_15_sols.gif</image:loc>
+      <image:title>Assignat de 15 Sols</image:title>
+      <image:caption>Assignat de 15 Sols</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1789_assignats/s_laf167_50_sols.gif</image:loc>
+      <image:title>Assignat de 50 Sols</image:title>
+      <image:caption>Assignat de 50 Sols</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1789_assignats/s_laf168_25_livres.gif</image:loc>
+      <image:title>Assignat de 25 LIvres</image:title>
+      <image:caption>Assignat de 25 LIvres</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1789_assignats/s_laf171_5_livres.gif</image:loc>
+      <image:title>Assignat de 5 Livres</image:title>
+      <image:caption>Assignat de 5 Livres</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/192x_monnaies_necessite.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.8000</priority>
+    <loc>https://monnaiesdelafrance.fr/1791_constitution.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1791_constitution/constitution.jpg</image:loc>
+      <image:title>Allégorie de la Constitution</image:title>
+      <image:caption>Allégorie de la Constitution</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1791_constitution/s_c2238_ecu_avers.gif</image:loc>
+      <image:title>Ecu de 6 Livres &amp;quot;au génie&amp;quot;, type &amp;quot;François&amp;quot; – avers de la monnaie française</image:title>
+      <image:caption>Ecu de 6 Livres &amp;quot;au génie&amp;quot;, type &amp;quot;François&amp;quot; – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1791_constitution/s_c2238_ecu_revers.gif</image:loc>
+      <image:title>Ecu de 6 Livres &amp;quot;au génie&amp;quot;, type &amp;quot;François&amp;quot; – revers de la monnaie française</image:title>
+      <image:caption>Ecu de 6 Livres &amp;quot;au génie&amp;quot;, type &amp;quot;François&amp;quot; – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1791_constitution/s_c2243_15_sols_avers.gif</image:loc>
+      <image:title>15 Sols &amp;quot;au génie&amp;quot;, type &amp;quot;François&amp;quot; (1/8 d' title=</image:title>
+      <image:caption>15 Sols &amp;quot;au génie&amp;quot;, type &amp;quot;François&amp;quot; (1/8 d' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1791_constitution/s_c2243_15_sols_revers.gif</image:loc>
+      <image:title>15 Sols &amp;quot;au génie&amp;quot;, type &amp;quot;François&amp;quot; (1/8 d' title=</image:title>
+      <image:caption>15 Sols &amp;quot;au génie&amp;quot;, type &amp;quot;François&amp;quot; (1/8 d' title=</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1791_constitution/s_c2249_2_sols_avers.gif</image:loc>
+      <image:title>2 Sols &amp;quot;au faisceau&amp;quot;, type &amp;quot;Français&amp;quot; – avers de la monnaie française</image:title>
+      <image:caption>2 Sols &amp;quot;au faisceau&amp;quot;, type &amp;quot;Français&amp;quot; – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1791_constitution/s_c2249_2_sols_revers.gif</image:loc>
+      <image:title>2 Sols &amp;quot;au faisceau&amp;quot;, type &amp;quot;Français&amp;quot; – revers de la monnaie française</image:title>
+      <image:caption>2 Sols &amp;quot;au faisceau&amp;quot;, type &amp;quot;Français&amp;quot; – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1791_constitution/s_c2253_12_deniers_avers.gif</image:loc>
+      <image:title>12 Deniers &amp;quot;au faisceau&amp;quot;, type &amp;quot;François&amp;quot; – avers de la monnaie française</image:title>
+      <image:caption>12 Deniers &amp;quot;au faisceau&amp;quot;, type &amp;quot;François&amp;quot; – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1791_constitution/s_c2253_12_deniers_revers.gif</image:loc>
+      <image:title>12 Deniers &amp;quot;au faisceau&amp;quot;, type &amp;quot;François&amp;quot; – revers de la monnaie française</image:title>
+      <image:caption>12 Deniers &amp;quot;au faisceau&amp;quot;, type &amp;quot;François&amp;quot; – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1958_commemoratives.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.8000</priority>
+    <loc>https://monnaiesdelafrance.fr/1792_convention.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1792_convention/delacroix_liberte.jpg</image:loc>
+      <image:title>La liberté guidant le peuple</image:title>
+      <image:caption>La liberté guidant le peuple</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1792_convention/s_g31_2sols_avers.gif</image:loc>
+      <image:title>Deux sols &amp;quot;aux balances&amp;quot; ou &amp;quot;table de la loi&amp;quot; – avers de la monnaie française</image:title>
+      <image:caption>Deux sols &amp;quot;aux balances&amp;quot; ou &amp;quot;table de la loi&amp;quot; – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1792_convention/s_g31_2sols_revers.gif</image:loc>
+      <image:title>Deux sols &amp;quot;aux balances&amp;quot; ou &amp;quot;table de la loi&amp;quot; – revers de la monnaie française</image:title>
+      <image:caption>Deux sols &amp;quot;aux balances&amp;quot; ou &amp;quot;table de la loi&amp;quot; – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1792_convention/s_g19_1_sol_avers.gif</image:loc>
+      <image:title>Sol &amp;quot;aux balances&amp;quot; ou &amp;quot;table de la loi&amp;quot; – avers de la monnaie française</image:title>
+      <image:caption>Sol &amp;quot;aux balances&amp;quot; ou &amp;quot;table de la loi&amp;quot; – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1792_convention/s_g19_1_sol_revers.gif</image:loc>
+      <image:title>Sol &amp;quot;aux balances&amp;quot; ou &amp;quot;table de la loi&amp;quot; – revers de la monnaie française</image:title>
+      <image:caption>Sol &amp;quot;aux balances&amp;quot; ou &amp;quot;table de la loi&amp;quot; – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/2002_euro.html</loc>
-       <lastmod>2026-09-13T20:58:45+00:00</lastmod>
-       <priority>0.8000</priority>
+    <loc>https://monnaiesdelafrance.fr/1793_siege_mayence.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1793_siege_mayence/siege_mayence.jpg</image:loc>
+      <image:title>Mayence</image:title>
+      <image:caption>Mayence</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1793_siege_mayence/s_g67_5_sols_avers.gif</image:loc>
+      <image:title>5 Sols – avers de la monnaie française</image:title>
+      <image:caption>5 Sols – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1793_siege_mayence/s_g67_5_sols_revers.gif</image:loc>
+      <image:title>5 Sols – revers de la monnaie française</image:title>
+      <image:caption>5 Sols – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1793_siege_mayence/s_g66_2_sols_avers.gif</image:loc>
+      <image:title>2 Sols – avers de la monnaie française</image:title>
+      <image:caption>2 Sols – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1793_siege_mayence/s_g66_2_sols_revers.gif</image:loc>
+      <image:title>2 Sols – revers de la monnaie française</image:title>
+      <image:caption>2 Sols – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1793_siege_mayence/s_g65_1_sol_avers.gif</image:loc>
+      <image:title>1 Sol – avers de la monnaie française</image:title>
+      <image:caption>1 Sol – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1793_siege_mayence/s_g65_1_sol_revers.gif</image:loc>
+      <image:title>1 Sol – revers de la monnaie française</image:title>
+      <image:caption>1 Sol – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/lexique.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.8000</priority>
+    <loc>https://monnaiesdelafrance.fr/1795_directoire.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1795_directoire/barras.jpg</image:loc>
+      <image:title>Portrait de Paul Barras, membre du Directoire (1795-1799)</image:title>
+      <image:caption>Portrait de Paul Barras, membre du Directoire (1795-1799)</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1795_directoire/s_f145_2decimes_avers.gif</image:loc>
+      <image:title>2 Décimes Dupré – avers de la monnaie française</image:title>
+      <image:caption>2 Décimes Dupré – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1795_directoire/s_f145_2decimes_revers.gif</image:loc>
+      <image:title>2 Décimes Dupré – revers de la monnaie française</image:title>
+      <image:caption>2 Décimes Dupré – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1795_directoire/s_f126_decime_petit_module_avers.gif</image:loc>
+      <image:title>Décime, Petit module – avers de la monnaie française</image:title>
+      <image:caption>Décime, Petit module – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1795_directoire/s_f126_decime_petit_module_revers.gif</image:loc>
+      <image:title>Décime, Petit module – revers de la monnaie française</image:title>
+      <image:caption>Décime, Petit module – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1795_directoire/s_f113_5c_petit_module_avers.gif</image:loc>
+      <image:title>5 Centimes, Petit module – avers de la monnaie française</image:title>
+      <image:caption>5 Centimes, Petit module – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1795_directoire/s_f113_5c_petit_module_revers.gif</image:loc>
+      <image:title>5 Centimes, Petit module – revers de la monnaie française</image:title>
+      <image:caption>5 Centimes, Petit module – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1795_directoire/s_f127_decime_modif_2dec_avers.gif</image:loc>
+      <image:title>Un Décime, Modification du 2 Décimes – avers de la monnaie française</image:title>
+      <image:caption>Un Décime, Modification du 2 Décimes – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1795_directoire/s_f127_decime_modif_2dec_revers.gif</image:loc>
+      <image:title>Un Décime, Modification du 2 Décimes – revers de la monnaie française</image:title>
+      <image:caption>Un Décime, Modification du 2 Décimes – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1795_directoire/s_f128_decime_refrappage_2dec_avers.gif</image:loc>
+      <image:title>Un Décime, Grand module, &amp;quot;refrappage&amp;quot; du 2 Décimes – avers de la monnaie française</image:title>
+      <image:caption>Un Décime, Grand module, &amp;quot;refrappage&amp;quot; du 2 Décimes – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1795_directoire/s_f128_decime_refrappage_2dec_revers.gif</image:loc>
+      <image:title>Un Décime, Grand module, &amp;quot;refrappage&amp;quot; du 2 Décimes – revers de la monnaie française</image:title>
+      <image:caption>Un Décime, Grand module, &amp;quot;refrappage&amp;quot; du 2 Décimes – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1795_directoire/s_f114_5c_refrappage_avers.gif</image:loc>
+      <image:title>Cinq centimes, Grand module, &amp;quot;refrappage&amp;quot; du Décime – avers de la monnaie française</image:title>
+      <image:caption>Cinq centimes, Grand module, &amp;quot;refrappage&amp;quot; du Décime – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1795_directoire/s_f114_5c_refrappage_revers.gif</image:loc>
+      <image:title>Cinq centimes, Grand module, &amp;quot;refrappage&amp;quot; du Décime – revers de la monnaie française</image:title>
+      <image:caption>Cinq centimes, Grand module, &amp;quot;refrappage&amp;quot; du Décime – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1795_directoire/s_f129_un_decime_gm_avers.gif</image:loc>
+      <image:title>Un Décime, Grand module – avers de la monnaie française</image:title>
+      <image:caption>Un Décime, Grand module – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1795_directoire/s_f129_un_decime_gm_revers.gif</image:loc>
+      <image:title>Un Décime, Grand module – revers de la monnaie française</image:title>
+      <image:caption>Un Décime, Grand module – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1795_directoire/s_f115_5c_grand_module_avers.gif</image:loc>
+      <image:title>Cinq Centimes, Grand module – avers de la monnaie française</image:title>
+      <image:caption>Cinq Centimes, Grand module – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1795_directoire/s_f115_5c_grand_module_revers.gif</image:loc>
+      <image:title>Cinq Centimes, Grand module – revers de la monnaie française</image:title>
+      <image:caption>Cinq Centimes, Grand module – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1795_directoire/s_f100_1c_avers.gif</image:loc>
+      <image:title>Un Centime – avers de la monnaie française</image:title>
+      <image:caption>Un Centime – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1795_directoire/s_f100_1c_revers.gif</image:loc>
+      <image:title>Un Centime – revers de la monnaie française</image:title>
+      <image:caption>Un Centime – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1795_directoire/s_f300_5f_hercule_avers.gif</image:loc>
+      <image:title>5 Francs UNION ET FORCE – avers de la monnaie française</image:title>
+      <image:caption>5 Francs UNION ET FORCE – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1795_directoire/s_f300_5f_hercule_revers.gif</image:loc>
+      <image:title>5 Francs UNION ET FORCE – revers de la monnaie française</image:title>
+      <image:caption>5 Francs UNION ET FORCE – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/liens.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.8000</priority>
+    <loc>https://monnaiesdelafrance.fr/1799_consulat.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1799_consulat/napoleon.jpg</image:loc>
+      <image:title>Bonaparte franchissant les Alpes</image:title>
+      <image:caption>Bonaparte franchissant les Alpes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1799_consulat/s_f536_40f_avers.gif</image:loc>
+      <image:title>40 Francs BONAPARTE Premier consul – avers de la monnaie française</image:title>
+      <image:caption>40 Francs BONAPARTE Premier consul – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1799_consulat/s_f536_40f_revers.gif</image:loc>
+      <image:title>40 Francs BONAPARTE Premier consul – revers de la monnaie française</image:title>
+      <image:caption>40 Francs BONAPARTE Premier consul – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1799_consulat/s_f510_20f_avers.gif</image:loc>
+      <image:title>20 Francs BONAPARTE Premier consul – avers de la monnaie française</image:title>
+      <image:caption>20 Francs BONAPARTE Premier consul – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1799_consulat/s_f510_20f_revers.gif</image:loc>
+      <image:title>20 Francs BONAPARTE Premier consul – revers de la monnaie française</image:title>
+      <image:caption>20 Francs BONAPARTE Premier consul – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1799_consulat/s_f301_5f_avers.gif</image:loc>
+      <image:title>5 Francs BONAPARTE Premier consul – avers de la monnaie française</image:title>
+      <image:caption>5 Francs BONAPARTE Premier consul – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1799_consulat/s_f301_5f_revers.gif</image:loc>
+      <image:title>5 Francs BONAPARTE Premier consul – revers de la monnaie française</image:title>
+      <image:caption>5 Francs BONAPARTE Premier consul – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1799_consulat/s_f200_1f_avers.gif</image:loc>
+      <image:title>1 Franc BONAPARTE Premier consul – avers de la monnaie française</image:title>
+      <image:caption>1 Franc BONAPARTE Premier consul – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1799_consulat/s_f200_1f_revers.gif</image:loc>
+      <image:title>1 Franc BONAPARTE Premier consul – revers de la monnaie française</image:title>
+      <image:caption>1 Franc BONAPARTE Premier consul – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1799_consulat/s_f157_quart_avers.gif</image:loc>
+      <image:title>Quart (de Franc) BONAPARTE Premier consul – avers de la monnaie française</image:title>
+      <image:caption>Quart (de Franc) BONAPARTE Premier consul – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1799_consulat/s_f157_quart_revers.gif</image:loc>
+      <image:title>Quart (de Franc) BONAPARTE Premier consul – revers de la monnaie française</image:title>
+      <image:caption>Quart (de Franc) BONAPARTE Premier consul – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/nouveautes.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.8000</priority>
+    <loc>https://monnaiesdelafrance.fr/1804_premier_empire.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1804_premier_empire/napoleon.jpg</image:loc>
+      <image:title>Napoléon</image:title>
+      <image:caption>Napoléon</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1804_premier_empire/s_f303_5f_cal_revol_avers.gif</image:loc>
+      <image:title>5 Francs – avers de la monnaie française</image:title>
+      <image:caption>5 Francs – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1804_premier_empire/s_f303_5f_cal_revol_revers.gif</image:loc>
+      <image:title>5 Francs – revers de la monnaie française</image:title>
+      <image:caption>5 Francs – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1804_premier_empire/s_f251_2f_tn_cal_rev_avers.gif</image:loc>
+      <image:title>2 Francs – avers de la monnaie française</image:title>
+      <image:caption>2 Francs – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1804_premier_empire/s_f251_2f_tn_cal_rev_revers.gif</image:loc>
+      <image:title>2 Francs – revers de la monnaie française</image:title>
+      <image:caption>2 Francs – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1804_premier_empire/s_f158_quart_tn_cal_rev_avers.gif</image:loc>
+      <image:title>Quart (de Franc) – avers de la monnaie française</image:title>
+      <image:caption>Quart (de Franc) – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1804_premier_empire/s_f158_quart_tn_cal_rev_revers.gif</image:loc>
+      <image:title>Quart (de Franc) – revers de la monnaie française</image:title>
+      <image:caption>Quart (de Franc) – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1804_premier_empire/s_f159_quart_tn_cal_greg_avers.gif</image:loc>
+      <image:title>Quart (de Franc) – avers de la monnaie française</image:title>
+      <image:caption>Quart (de Franc) – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1804_premier_empire/s_f159_quart_tn_cal_greg_revers.gif</image:loc>
+      <image:title>Quart (de Franc) – revers de la monnaie française</image:title>
+      <image:caption>Quart (de Franc) – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1804_premier_empire/s_f130_10c_N_couronne_avers.gif</image:loc>
+      <image:title>10 cent. N COURONNE – avers de la monnaie française</image:title>
+      <image:caption>10 cent. N COURONNE – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1804_premier_empire/s_f130_10c_N_couronne_revers.gif</image:loc>
+      <image:title>10 cent. N COURONNE – revers de la monnaie française</image:title>
+      <image:caption>10 cent. N COURONNE – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1804_premier_empire/s_f515_20f_tl_republique_avers.gif</image:loc>
+      <image:title>20 Francs – avers de la monnaie française</image:title>
+      <image:caption>20 Francs – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1804_premier_empire/s_f515_20f_tl_republique_revers.gif</image:loc>
+      <image:title>20 Francs – revers de la monnaie française</image:title>
+      <image:caption>20 Francs – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1804_premier_empire/s_f204_1f_tl_republique_revers.gif</image:loc>
+      <image:title>Demi-Franc – avers de la monnaie française</image:title>
+      <image:caption>Demi-Franc – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1804_premier_empire/s_f177_demi_tl_republique_revers.gif</image:loc>
+      <image:title>Demi-Franc – revers de la monnaie française</image:title>
+      <image:caption>Demi-Franc – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1804_premier_empire/s_f516_20f_tl_empire_avers.gif</image:loc>
+      <image:title>20 Francs – avers de la monnaie française</image:title>
+      <image:caption>20 Francs – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1804_premier_empire/s_f516_20f_tl_empire_revers.gif</image:loc>
+      <image:title>20 Francs – revers de la monnaie française</image:title>
+      <image:caption>20 Francs – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1804_premier_empire/s_f307_5f_tl_empire_avers.gif</image:loc>
+      <image:title>5 Francs – avers de la monnaie française</image:title>
+      <image:caption>5 Francs – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1804_premier_empire/s_f307_5f_tl_empire_revers.gif</image:loc>
+      <image:title>5 Francs – revers de la monnaie française</image:title>
+      <image:caption>5 Francs – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1804_premier_empire/s_f162_quart_tl_rev_emp_fra_avers.gif</image:loc>
+      <image:title>Quart (de Franc) – avers de la monnaie française</image:title>
+      <image:caption>Quart (de Franc) – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1804_premier_empire/s_f162_quart_tl_rev_emp_fra_revers.gif</image:loc>
+      <image:title>Quart (de Franc) – revers de la monnaie française</image:title>
+      <image:caption>Quart (de Franc) – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/technique_fabrication.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.8000</priority>
+    <loc>https://monnaiesdelafrance.fr/1814_louis_xviii.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1814_louis_xviii/portrait.jpg</image:loc>
+      <image:title>Portrait de Louis XVIII, roi de France – Première Restauration (1814)</image:title>
+      <image:caption>Portrait de Louis XVIII, roi de France – Première Restauration (1814)</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1814_louis_xviii/s_f517_20f_avers.gif</image:loc>
+      <image:title>20 Francs OR, LOUIS XVIII, Buste habillé – avers de la monnaie française</image:title>
+      <image:caption>20 Francs OR, LOUIS XVIII, Buste habillé – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1814_louis_xviii/s_f517_20f_revers.gif</image:loc>
+      <image:title>20 Francs OR, LOUIS XVIII, Buste habillé – revers de la monnaie française</image:title>
+      <image:caption>20 Francs OR, LOUIS XVIII, Buste habillé – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/poids_des_monnaies.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.8000</priority>
+    <loc>https://monnaiesdelafrance.fr/1814_siege_anvers.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1814_siege_anvers/s_g194_10c_LL_larges_avers.gif</image:loc>
+      <image:title>10 Cent. LOUIS XVIII, LL larges – avers de la monnaie française</image:title>
+      <image:caption>10 Cent. LOUIS XVIII, LL larges – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1814_siege_anvers/s_g194_10c_LL_larges_revers.gif</image:loc>
+      <image:title>10 Cent. LOUIS XVIII, LL larges – revers de la monnaie française</image:title>
+      <image:caption>10 Cent. LOUIS XVIII, LL larges – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1560_charles_ix.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.6400</priority>
+    <loc>https://monnaiesdelafrance.fr/1814_siege_strasbourg.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1814_siege_strasbourg/s_f131_decime_N_1814_bb_avers.gif</image:loc>
+      <image:title>Un décime au N – avers de la monnaie française</image:title>
+      <image:caption>Un décime au N – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1814_siege_strasbourg/s_f131_decime_N_1814_bb_revers.gif</image:loc>
+      <image:title>Un décime au N – revers de la monnaie française</image:title>
+      <image:caption>Un décime au N – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1814_siege_strasbourg/s_f132_decime_L_1814_bb_avers.gif</image:loc>
+      <image:title>Un décime au L – avers de la monnaie française</image:title>
+      <image:caption>Un décime au L – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1814_siege_strasbourg/s_f132_decime_L_1814_bb_revers.gif</image:loc>
+      <image:title>Un décime au L – revers de la monnaie française</image:title>
+      <image:caption>Un décime au L – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1559_francois_ii.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.6400</priority>
+    <loc>https://monnaiesdelafrance.fr/1815_cent_jours.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1815_cent_jours/napoleon.jpg</image:loc>
+      <image:title>Napoléon</image:title>
+      <image:caption>Napoléon</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1815_cent_jours/s_f307_5f_cent_jours_avers.gif</image:loc>
+      <image:title>5 Francs Napoléon Ier Empereur, Cent-jours – avers de la monnaie française</image:title>
+      <image:caption>5 Francs Napoléon Ier Empereur, Cent-jours – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1815_cent_jours/s_f307_5f_cent_jours_revers.gif</image:loc>
+      <image:title>5 Francs Napoléon Ier Empereur, Cent-jours – revers de la monnaie française</image:title>
+      <image:caption>5 Francs Napoléon Ier Empereur, Cent-jours – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1590_charles_x_ligue.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.6400</priority>
+    <loc>https://monnaiesdelafrance.fr/1815_louis_xviii_2.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1815_louis_xviii_2/portrait.jpg</image:loc>
+      <image:title>Portrait de Louis XVIII, roi de France – Seconde Restauration (1815-1824)</image:title>
+      <image:caption>Portrait de Louis XVIII, roi de France – Seconde Restauration (1815-1824)</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1815_louis_xviii_2/s_f519_20f_avers.gif</image:loc>
+      <image:title>20 Francs LOUIS XVIII au buste nu – avers de la monnaie française</image:title>
+      <image:caption>20 Francs LOUIS XVIII au buste nu – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1815_louis_xviii_2/s_f519_20f_revers.gif</image:loc>
+      <image:title>20 Francs LOUIS XVIII au buste nu – revers de la monnaie française</image:title>
+      <image:caption>20 Francs LOUIS XVIII au buste nu – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1815_louis_xviii_2/s_f309_5f_avers.gif</image:loc>
+      <image:title>5 Francs LOUIS XVIII au buste nu – avers de la monnaie française</image:title>
+      <image:caption>5 Francs LOUIS XVIII au buste nu – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1815_louis_xviii_2/s_f309_5f_revers.gif</image:loc>
+      <image:title>5 Francs LOUIS XVIII au buste nu – revers de la monnaie française</image:title>
+      <image:caption>5 Francs LOUIS XVIII au buste nu – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1815_louis_xviii_2/s_f163_quart_avers.gif</image:loc>
+      <image:title>1/4 Franc LOUIS XVIII – avers de la monnaie française</image:title>
+      <image:caption>1/4 Franc LOUIS XVIII – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1815_louis_xviii_2/s_f163_quart_revers.gif</image:loc>
+      <image:title>1/4 Franc LOUIS XVIII – revers de la monnaie française</image:title>
+      <image:caption>1/4 Franc LOUIS XVIII – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1774_louis_xvi.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.6400</priority>
+    <loc>https://monnaiesdelafrance.fr/1815_siege_strasbourg.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1789_assignats.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.6400</priority>
+    <loc>https://monnaiesdelafrance.fr/1824_charles_x.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1824_charles_x/portrait.jpg</image:loc>
+      <image:title>Portrait de Charles X, roi de France (1824-1830)</image:title>
+      <image:caption>Portrait de Charles X, roi de France (1824-1830)</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1824_charles_x/s_f544_40f_avers.gif</image:loc>
+      <image:title>40 Francs CHARLES X – avers de la monnaie française</image:title>
+      <image:caption>40 Francs CHARLES X – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1824_charles_x/s_f544_40f_revers.gif</image:loc>
+      <image:title>40 Francs CHARLES X – revers de la monnaie française</image:title>
+      <image:caption>40 Francs CHARLES X – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1824_charles_x/s_f311_5f_type2_avers.gif</image:loc>
+      <image:title>5 Francs CHARLES X, 2e TYPE – avers de la monnaie française</image:title>
+      <image:caption>5 Francs CHARLES X, 2e TYPE – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1824_charles_x/s_f311_5f_type2_revers.gif</image:loc>
+      <image:title>5 Francs CHARLES X, 2e TYPE – revers de la monnaie française</image:title>
+      <image:caption>5 Francs CHARLES X, 2e TYPE – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1824_charles_x/s_f180_demi_avers.gif</image:loc>
+      <image:title>1/2 Franc CHARLES X – avers de la monnaie française</image:title>
+      <image:caption>1/2 Franc CHARLES X – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1824_charles_x/s_f180_demi_revers.gif</image:loc>
+      <image:title>1/2 Franc CHARLES X – revers de la monnaie française</image:title>
+      <image:caption>1/2 Franc CHARLES X – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1824_charles_x/s_f164_quart_avers.gif</image:loc>
+      <image:title>1/4 Franc CHARLES X – avers de la monnaie française</image:title>
+      <image:caption>1/4 Franc CHARLES X – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1824_charles_x/s_f164_quart_revers.gif</image:loc>
+      <image:title>1/4 Franc CHARLES X – revers de la monnaie française</image:title>
+      <image:caption>1/4 Franc CHARLES X – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1824_charles_x/s_l307_10c_colonies_avers.gif</image:loc>
+      <image:title>10 Cent. CHARLES X (pour les Colonies) – avers de la monnaie française</image:title>
+      <image:caption>10 Cent. CHARLES X (pour les Colonies) – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1824_charles_x/s_l307_10c_colonies_revers.gif</image:loc>
+      <image:title>10 Cent. CHARLES X (pour les Colonies) – revers de la monnaie française</image:title>
+      <image:caption>10 Cent. CHARLES X (pour les Colonies) – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1824_charles_x/s_l301_5c_colonies_avers.gif</image:loc>
+      <image:title>5 Cent. CHARLES X (pour les Colonies) – avers de la monnaie française</image:title>
+      <image:caption>5 Cent. CHARLES X (pour les Colonies) – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1824_charles_x/s_l301_5c_colonies_revers.gif</image:loc>
+      <image:title>5 Cent. CHARLES X (pour les Colonies) – revers de la monnaie française</image:title>
+      <image:caption>5 Cent. CHARLES X (pour les Colonies) – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1793_siege_mayence.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.6400</priority>
+    <loc>https://monnaiesdelafrance.fr/1830_louis_philippe.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1830_louis_philippe/portrait.jpg</image:loc>
+      <image:title>Portrait de Louis-Philippe, roi des Français (1830-1848)</image:title>
+      <image:caption>Portrait de Louis-Philippe, roi des Français (1830-1848)</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1830_louis_philippe/s_f546_40f_avers.gif</image:loc>
+      <image:title>40 Francs LOUIS-PHILIPPE, Tête laurée – avers de la monnaie française</image:title>
+      <image:caption>40 Francs LOUIS-PHILIPPE, Tête laurée – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1830_louis_philippe/s_f546_40f_revers.gif</image:loc>
+      <image:title>40 Francs LOUIS-PHILIPPE, Tête laurée – revers de la monnaie française</image:title>
+      <image:caption>40 Francs LOUIS-PHILIPPE, Tête laurée – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1830_louis_philippe/s_f527_20f_avers.gif</image:loc>
+      <image:title>20 Francs LOUIS-PHILIPPE, Tête laurée – avers de la monnaie française</image:title>
+      <image:caption>20 Francs LOUIS-PHILIPPE, Tête laurée – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1830_louis_philippe/s_f527_20f_revers.gif</image:loc>
+      <image:title>20 Francs LOUIS-PHILIPPE, Tête laurée – revers de la monnaie française</image:title>
+      <image:caption>20 Francs LOUIS-PHILIPPE, Tête laurée – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1830_louis_philippe/s_f320_5f_avers.gif</image:loc>
+      <image:title>5 Francs LOUIS-PHILIPPE, Tête laurée – avers de la monnaie française</image:title>
+      <image:caption>5 Francs LOUIS-PHILIPPE, Tête laurée – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1830_louis_philippe/s_f320_5f_revers.gif</image:loc>
+      <image:title>5 Francs LOUIS-PHILIPPE, Tête laurée – revers de la monnaie française</image:title>
+      <image:caption>5 Francs LOUIS-PHILIPPE, Tête laurée – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1830_louis_philippe/s_f260_2f_avers.gif</image:loc>
+      <image:title>2 Francs LOUIS-PHILIPPE – avers de la monnaie française</image:title>
+      <image:caption>2 Francs LOUIS-PHILIPPE – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1830_louis_philippe/s_f260_2f_revers.gif</image:loc>
+      <image:title>2 Francs LOUIS-PHILIPPE – revers de la monnaie française</image:title>
+      <image:caption>2 Francs LOUIS-PHILIPPE – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1830_louis_philippe/s_f182_demi_avers.gif</image:loc>
+      <image:title>1/2 Franc LOUIS-PHILIPPE – avers de la monnaie française</image:title>
+      <image:caption>1/2 Franc LOUIS-PHILIPPE – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1830_louis_philippe/s_f182_demi_revers.gif</image:loc>
+      <image:title>1/2 Franc LOUIS-PHILIPPE – revers de la monnaie française</image:title>
+      <image:caption>1/2 Franc LOUIS-PHILIPPE – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1830_louis_philippe/s_f166_quart_avers.gif</image:loc>
+      <image:title>1/4 Franc LOUIS-PHILIPPE – avers de la monnaie française</image:title>
+      <image:caption>1/4 Franc LOUIS-PHILIPPE – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1830_louis_philippe/s_f166_quart_revers.gif</image:loc>
+      <image:title>1/4 Franc LOUIS-PHILIPPE – revers de la monnaie française</image:title>
+      <image:caption>1/4 Franc LOUIS-PHILIPPE – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1830_louis_philippe/s_f167_25c_avers.gif</image:loc>
+      <image:title>25 Centimes LOUIS-PHILIPPE – avers de la monnaie française</image:title>
+      <image:caption>25 Centimes LOUIS-PHILIPPE – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1830_louis_philippe/s_f167_25c_revers.gif</image:loc>
+      <image:title>25 Centimes LOUIS-PHILIPPE – revers de la monnaie française</image:title>
+      <image:caption>25 Centimes LOUIS-PHILIPPE – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1830_louis_philippe/s_l318_10c_colonies_avers.gif</image:loc>
+      <image:title>10 Cent. LOUIS-PHILIPPE (pour les Colonies) – avers de la monnaie française</image:title>
+      <image:caption>10 Cent. LOUIS-PHILIPPE (pour les Colonies) – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1830_louis_philippe/s_l318_10c_colonies_revers.gif</image:loc>
+      <image:title>10 Cent. LOUIS-PHILIPPE (pour les Colonies) – revers de la monnaie française</image:title>
+      <image:caption>10 Cent. LOUIS-PHILIPPE (pour les Colonies) – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1830_louis_philippe/s_l308_5c_colonies_avers.gif</image:loc>
+      <image:title>5 Cent. LOUIS-PHILIPPE (pour les Colonies) – avers de la monnaie française</image:title>
+      <image:caption>5 Cent. LOUIS-PHILIPPE (pour les Colonies) – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1830_louis_philippe/s_l308_5c_colonies_revers.gif</image:loc>
+      <image:title>5 Cent. LOUIS-PHILIPPE (pour les Colonies) – revers de la monnaie française</image:title>
+      <image:caption>5 Cent. LOUIS-PHILIPPE (pour les Colonies) – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1795_directoire.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.6400</priority>
+    <loc>https://monnaiesdelafrance.fr/1848_deuxieme_republique.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1848_deuxieme_republique/napoleon_iii.jpg</image:loc>
+      <image:title>Louis-Napoléon Bonaparte</image:title>
+      <image:caption>Louis-Napoléon Bonaparte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1848_deuxieme_republique/s_f326_5f_hercule_avers.gif</image:loc>
+      <image:title>5 Francs HERCULE – avers de la monnaie française</image:title>
+      <image:caption>5 Francs HERCULE – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1848_deuxieme_republique/s_f326_5f_hercule_revers.gif</image:loc>
+      <image:title>5 Francs HERCULE – revers de la monnaie française</image:title>
+      <image:caption>5 Francs HERCULE – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1848_deuxieme_republique/s_f101_1c_avers.gif</image:loc>
+      <image:title>Un Centime DUPRE – avers de la monnaie française</image:title>
+      <image:caption>Un Centime DUPRE – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1848_deuxieme_republique/s_f101_1c_revers.gif</image:loc>
+      <image:title>Un Centime DUPRE – revers de la monnaie française</image:title>
+      <image:caption>Un Centime DUPRE – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1848_deuxieme_republique/s_f529_20f_ceres_avers.gif</image:loc>
+      <image:title>20 Francs CERES – avers de la monnaie française</image:title>
+      <image:caption>20 Francs CERES – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1848_deuxieme_republique/s_f529_20f_ceres_revers.gif</image:loc>
+      <image:title>20 Francs CERES – revers de la monnaie française</image:title>
+      <image:caption>20 Francs CERES – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1848_deuxieme_republique/s_f327_5f_ceres_avers.gif</image:loc>
+      <image:title>5 Francs CERES – avers de la monnaie française</image:title>
+      <image:caption>5 Francs CERES – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1848_deuxieme_republique/s_f327_5f_ceres_revers.gif</image:loc>
+      <image:title>5 Francs CERES – revers de la monnaie française</image:title>
+      <image:caption>5 Francs CERES – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1848_deuxieme_republique/s_f184_50c_ceres_avers.gif</image:loc>
+      <image:title>50 Centimes CERES – avers de la monnaie française</image:title>
+      <image:caption>50 Centimes CERES – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1848_deuxieme_republique/s_f184_50c_ceres_revers.gif</image:loc>
+      <image:title>50 Centimes CERES – revers de la monnaie française</image:title>
+      <image:caption>50 Centimes CERES – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1848_deuxieme_republique/s_f146_20c_ceres_avers.gif</image:loc>
+      <image:title>20 Centimes CERES – avers de la monnaie française</image:title>
+      <image:caption>20 Centimes CERES – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1848_deuxieme_republique/s_f146_20c_ceres_revers.gif</image:loc>
+      <image:title>20 Centimes CERES – revers de la monnaie française</image:title>
+      <image:caption>20 Centimes CERES – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1799_consulat.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.6400</priority>
+    <loc>https://monnaiesdelafrance.fr/1852_second_empire.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/napoleon_iii.jpg</image:loc>
+      <image:title>Napoléon III</image:title>
+      <image:caption>Napoléon III</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f329_5f_lnb_avers.gif</image:loc>
+      <image:title>5 Francs LOUIS-NAPOLEON – avers de la monnaie française</image:title>
+      <image:caption>5 Francs LOUIS-NAPOLEON – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f329_5f_lnb_revers.gif</image:loc>
+      <image:title>5 Francs LOUIS-NAPOLEON – revers de la monnaie française</image:title>
+      <image:caption>5 Francs LOUIS-NAPOLEON – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f550_100f_tn_avers.gif</image:loc>
+      <image:title>100 Francs NAPOLEON III, Tête nue – avers de la monnaie française</image:title>
+      <image:caption>100 Francs NAPOLEON III, Tête nue – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f550_100f_tn_revers.gif</image:loc>
+      <image:title>100 Francs NAPOLEON III, Tête nue – revers de la monnaie française</image:title>
+      <image:caption>100 Francs NAPOLEON III, Tête nue – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f547_50f_tn_avers.gif</image:loc>
+      <image:title>50 Francs NAPOLEON III, Tête nue – avers de la monnaie française</image:title>
+      <image:caption>50 Francs NAPOLEON III, Tête nue – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f547_50f_tn_revers.gif</image:loc>
+      <image:title>50 Francs NAPOLEON III, Tête nue – revers de la monnaie française</image:title>
+      <image:caption>50 Francs NAPOLEON III, Tête nue – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f531_20f_tn_avers.gif</image:loc>
+      <image:title>20 Francs NAPOLEON III, Tête nue – avers de la monnaie française</image:title>
+      <image:caption>20 Francs NAPOLEON III, Tête nue – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f531_20f_tn_revers.gif</image:loc>
+      <image:title>20 Francs NAPOLEON III, Tête nue – revers de la monnaie française</image:title>
+      <image:caption>20 Francs NAPOLEON III, Tête nue – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f506_10f_tn_avers.gif</image:loc>
+      <image:title>10 Francs NAPOLEON III, Tête nue – avers de la monnaie française</image:title>
+      <image:caption>10 Francs NAPOLEON III, Tête nue – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f506_10f_tn_revers.gif</image:loc>
+      <image:title>10 Francs NAPOLEON III, Tête nue – revers de la monnaie française</image:title>
+      <image:caption>10 Francs NAPOLEON III, Tête nue – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f501_5f_tn_avers.gif</image:loc>
+      <image:title>5 Francs NAPOLEON III, Tête nue, Grand module – avers de la monnaie française</image:title>
+      <image:caption>5 Francs NAPOLEON III, Tête nue, Grand module – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f501_5f_tn_revers.gif</image:loc>
+      <image:title>5 Francs NAPOLEON III, Tête nue, Grand module – revers de la monnaie française</image:title>
+      <image:caption>5 Francs NAPOLEON III, Tête nue, Grand module – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f214_1f_tn_avers.gif</image:loc>
+      <image:title>1 Franc NAPOLEON III, Tête nue – avers de la monnaie française</image:title>
+      <image:caption>1 Franc NAPOLEON III, Tête nue – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f214_1f_tn_revers.gif</image:loc>
+      <image:title>1 Franc NAPOLEON III, Tête nue – revers de la monnaie française</image:title>
+      <image:caption>1 Franc NAPOLEON III, Tête nue – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f187_50c_tn_avers.gif</image:loc>
+      <image:title>50 Centimes NAPOLEON III, Tête nue – avers de la monnaie française</image:title>
+      <image:caption>50 Centimes NAPOLEON III, Tête nue – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f187_50c_tn_revers.gif</image:loc>
+      <image:title>50 Centimes NAPOLEON III, Tête nue – revers de la monnaie française</image:title>
+      <image:caption>50 Centimes NAPOLEON III, Tête nue – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f148_20c_tn_avers.gif</image:loc>
+      <image:title>20 Centimes NAPOLEON III, Tête nue – avers de la monnaie française</image:title>
+      <image:caption>20 Centimes NAPOLEON III, Tête nue – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f148_20c_tn_revers.gif</image:loc>
+      <image:title>20 Centimes NAPOLEON III, Tête nue – revers de la monnaie française</image:title>
+      <image:caption>20 Centimes NAPOLEON III, Tête nue – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f133_10c_tn_avers.gif</image:loc>
+      <image:title>Dix Centimes NAPOLEON III, Tête nue – avers de la monnaie française</image:title>
+      <image:caption>Dix Centimes NAPOLEON III, Tête nue – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f133_10c_tn_revers.gif</image:loc>
+      <image:title>Dix Centimes NAPOLEON III, Tête nue – revers de la monnaie française</image:title>
+      <image:caption>Dix Centimes NAPOLEON III, Tête nue – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f116_5c_tn_avers.gif</image:loc>
+      <image:title>Cinq Centimes NAPOLEON III, Tête nue – avers de la monnaie française</image:title>
+      <image:caption>Cinq Centimes NAPOLEON III, Tête nue – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f116_5c_tn_revers.gif</image:loc>
+      <image:title>Cinq Centimes NAPOLEON III, Tête nue – revers de la monnaie française</image:title>
+      <image:caption>Cinq Centimes NAPOLEON III, Tête nue – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f107_2c_tn_avers.gif</image:loc>
+      <image:title>Deux Centimes NAPOLEON III, Tête nue – avers de la monnaie française</image:title>
+      <image:caption>Deux Centimes NAPOLEON III, Tête nue – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f107_2c_tn_revers.gif</image:loc>
+      <image:title>Deux Centimes NAPOLEON III, Tête nue – revers de la monnaie française</image:title>
+      <image:caption>Deux Centimes NAPOLEON III, Tête nue – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f102_1c_tn_avers.gif</image:loc>
+      <image:title>Un Centime NAPOLEON III, Tête nue – avers de la monnaie française</image:title>
+      <image:caption>Un Centime NAPOLEON III, Tête nue – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f102_1c_tn_revers.gif</image:loc>
+      <image:title>Un Centime NAPOLEON III, Tête nue – revers de la monnaie française</image:title>
+      <image:caption>Un Centime NAPOLEON III, Tête nue – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f548_50f_tl_avers.gif</image:loc>
+      <image:title>50 Francs NAPOLEON III, Tête laurée – avers de la monnaie française</image:title>
+      <image:caption>50 Francs NAPOLEON III, Tête laurée – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f548_50f_tl_revers.gif</image:loc>
+      <image:title>50 Francs NAPOLEON III, Tête laurée – revers de la monnaie française</image:title>
+      <image:caption>50 Francs NAPOLEON III, Tête laurée – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f507_10f_tl_avers.gif</image:loc>
+      <image:title>10 Francs NAPOLEON III, Tête laurée – avers de la monnaie française</image:title>
+      <image:caption>10 Francs NAPOLEON III, Tête laurée – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f507_10f_tl_revers.gif</image:loc>
+      <image:title>10 Francs NAPOLEON III, Tête laurée – revers de la monnaie française</image:title>
+      <image:caption>10 Francs NAPOLEON III, Tête laurée – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f502_5f_tl_avers.gif</image:loc>
+      <image:title>5 Francs OR, NAPOLEON III, Tête laurée – avers de la monnaie française</image:title>
+      <image:caption>5 Francs OR, NAPOLEON III, Tête laurée – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f502_5f_tl_revers.gif</image:loc>
+      <image:title>5 Francs OR, NAPOLEON III, Tête laurée – revers de la monnaie française</image:title>
+      <image:caption>5 Francs OR, NAPOLEON III, Tête laurée – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f331_5f_tl_avers.gif</image:loc>
+      <image:title>5 Francs NAPOLEON III, Tête laurée – avers de la monnaie française</image:title>
+      <image:caption>5 Francs NAPOLEON III, Tête laurée – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f331_5f_tl_revers.gif</image:loc>
+      <image:title>5 Francs NAPOLEON III, Tête laurée – revers de la monnaie française</image:title>
+      <image:caption>5 Francs NAPOLEON III, Tête laurée – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f263_2f_tl_avers.gif</image:loc>
+      <image:title>2 Francs NAPOLEON III, Tête laurée – avers de la monnaie française</image:title>
+      <image:caption>2 Francs NAPOLEON III, Tête laurée – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f263_2f_tl_revers.gif</image:loc>
+      <image:title>2 Francs NAPOLEON III, Tête laurée – revers de la monnaie française</image:title>
+      <image:caption>2 Francs NAPOLEON III, Tête laurée – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f215_1f_tl_avers.gif</image:loc>
+      <image:title>1 Franc NAPOLEON III, Tête laurée – avers de la monnaie française</image:title>
+      <image:caption>1 Franc NAPOLEON III, Tête laurée – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f215_1f_tl_revers.gif</image:loc>
+      <image:title>1 Franc NAPOLEON III, Tête laurée – revers de la monnaie française</image:title>
+      <image:caption>1 Franc NAPOLEON III, Tête laurée – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f188_50c_tl_avers.gif</image:loc>
+      <image:title>50 Centimes NAPOLEON III, Tête laurée – avers de la monnaie française</image:title>
+      <image:caption>50 Centimes NAPOLEON III, Tête laurée – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f188_50c_tl_revers.gif</image:loc>
+      <image:title>50 Centimes NAPOLEON III, Tête laurée – revers de la monnaie française</image:title>
+      <image:caption>50 Centimes NAPOLEON III, Tête laurée – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f149_20c_tl_pmod_avers.gif</image:loc>
+      <image:title>20 Centimes NAPOLEON III, Tête laurée, Petit module – avers de la monnaie française</image:title>
+      <image:caption>20 Centimes NAPOLEON III, Tête laurée, Petit module – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f149_20c_tl_pmod_revers.gif</image:loc>
+      <image:title>20 Centimes NAPOLEON III, Tête laurée, Petit module – revers de la monnaie française</image:title>
+      <image:caption>20 Centimes NAPOLEON III, Tête laurée, Petit module – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f150_20c_tl_gmod_avers.gif</image:loc>
+      <image:title>20 Centimes NAPOLEON III, Tête laurée, Grand module – avers de la monnaie française</image:title>
+      <image:caption>20 Centimes NAPOLEON III, Tête laurée, Grand module – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f150_20c_tl_gmod_revers.gif</image:loc>
+      <image:title>20 Centimes NAPOLEON III, Tête laurée, Grand module – revers de la monnaie française</image:title>
+      <image:caption>20 Centimes NAPOLEON III, Tête laurée, Grand module – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f134_10c_tl_avers.gif</image:loc>
+      <image:title>Dix Centimes NAPOLEON III, Tête laurée – avers de la monnaie française</image:title>
+      <image:caption>Dix Centimes NAPOLEON III, Tête laurée – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f134_10c_tl_revers.gif</image:loc>
+      <image:title>Dix Centimes NAPOLEON III, Tête laurée – revers de la monnaie française</image:title>
+      <image:caption>Dix Centimes NAPOLEON III, Tête laurée – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f117_5c_tl_avers.gif</image:loc>
+      <image:title>Cinq Centimes NAPOLEON III, Tête laurée – avers de la monnaie française</image:title>
+      <image:caption>Cinq Centimes NAPOLEON III, Tête laurée – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f117_5c_tl_revers.gif</image:loc>
+      <image:title>Cinq Centimes NAPOLEON III, Tête laurée – revers de la monnaie française</image:title>
+      <image:caption>Cinq Centimes NAPOLEON III, Tête laurée – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f103_1c_tl_avers.gif</image:loc>
+      <image:title>Un Centime NAPOLEON III, Tête laurée – avers de la monnaie française</image:title>
+      <image:caption>Un Centime NAPOLEON III, Tête laurée – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1852_second_empire/s_f103_1c_tl_revers.gif</image:loc>
+      <image:title>Un Centime NAPOLEON III, Tête laurée – revers de la monnaie française</image:title>
+      <image:caption>Un Centime NAPOLEON III, Tête laurée – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1814_siege_anvers.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.6400</priority>
+    <loc>https://monnaiesdelafrance.fr/1870_troisieme_republique.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1870_troisieme_republique/s_f104_1c_ceres_avers.gif</image:loc>
+      <image:title>1 Centime CERES – avers de la monnaie française</image:title>
+      <image:caption>1 Centime CERES – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1870_troisieme_republique/s_f104_1c_ceres_revers.gif</image:loc>
+      <image:title>1 Centime CERES – revers de la monnaie française</image:title>
+      <image:caption>1 Centime CERES – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1870_troisieme_republique/s_f109_2c_ceres_avers.gif</image:loc>
+      <image:title>2 Centimes CERES – avers de la monnaie française</image:title>
+      <image:caption>2 Centimes CERES – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1870_troisieme_republique/s_f109_2c_ceres_revers.gif</image:loc>
+      <image:title>2 Centimes CERES – revers de la monnaie française</image:title>
+      <image:caption>2 Centimes CERES – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1870_troisieme_republique/s_f118_5c_ceres_avers.gif</image:loc>
+      <image:title>5 Centimes CERES – avers de la monnaie française</image:title>
+      <image:caption>5 Centimes CERES – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1870_troisieme_republique/s_f118_5c_ceres_revers.gif</image:loc>
+      <image:title>5 Centimes CERES – revers de la monnaie française</image:title>
+      <image:caption>5 Centimes CERES – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1870_troisieme_republique/s_f135_10c_ceres_avers.gif</image:loc>
+      <image:title>10 Centimes CERES – avers de la monnaie française</image:title>
+      <image:caption>10 Centimes CERES – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1870_troisieme_republique/s_f135_10c_ceres_revers.gif</image:loc>
+      <image:title>10 Centimes CERES – revers de la monnaie française</image:title>
+      <image:caption>10 Centimes CERES – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1870_troisieme_republique/s_f189_50c_ceres_avers.gif</image:loc>
+      <image:title>50 Centimes CERES – avers de la monnaie française</image:title>
+      <image:caption>50 Centimes CERES – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1870_troisieme_republique/s_f189_50c_ceres_revers.gif</image:loc>
+      <image:title>50 Centimes CERES – revers de la monnaie française</image:title>
+      <image:caption>50 Centimes CERES – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1870_troisieme_republique/s_f216_1f_ceres_avers.gif</image:loc>
+      <image:title>1 Franc CERES – avers de la monnaie française</image:title>
+      <image:caption>1 Franc CERES – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1870_troisieme_republique/s_f216_1f_ceres_revers.gif</image:loc>
+      <image:title>1 Franc CERES – revers de la monnaie française</image:title>
+      <image:caption>1 Franc CERES – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1870_troisieme_republique/s_f265_2f_ceres_avers.gif</image:loc>
+      <image:title>2 Francs CERES – avers de la monnaie française</image:title>
+      <image:caption>2 Francs CERES – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1870_troisieme_republique/s_f265_2f_ceres_revers.gif</image:loc>
+      <image:title>2 Francs CERES – revers de la monnaie française</image:title>
+      <image:caption>2 Francs CERES – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1870_troisieme_republique/s_f508_10f_ceres_avers.gif</image:loc>
+      <image:title>10 Francs CERES, TROISIEME REPUBLIQUE – avers de la monnaie française</image:title>
+      <image:caption>10 Francs CERES, TROISIEME REPUBLIQUE – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1870_troisieme_republique/s_f508_10f_ceres_revers.gif</image:loc>
+      <image:title>10 Francs CERES, TROISIEME REPUBLIQUE – revers de la monnaie française</image:title>
+      <image:caption>10 Francs CERES, TROISIEME REPUBLIQUE – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1870_troisieme_republique/s_f533_20f_genie_avers.gif</image:loc>
+      <image:title>20 Francs GENIE, TROISIEME REPUBLIQUE – avers de la monnaie française</image:title>
+      <image:caption>20 Francs GENIE, TROISIEME REPUBLIQUE – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1870_troisieme_republique/s_f533_20f_genie_revers.gif</image:loc>
+      <image:title>20 Francs GENIE, TROISIEME REPUBLIQUE – revers de la monnaie française</image:title>
+      <image:caption>20 Francs GENIE, TROISIEME REPUBLIQUE – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1815_cent_jours.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.6400</priority>
+    <loc>https://monnaiesdelafrance.fr/189x_belle_epoque.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/189x_belle_epoque/tour_eiffel.gif</image:loc>
+      <image:title>La tour Eiffel en construction</image:title>
+      <image:caption>La tour Eiffel en construction</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/189x_belle_epoque/s_f105_1c_dupuis_avers.gif</image:loc>
+      <image:title>1 Centime DANIEL-DUPUIS – avers de la monnaie française</image:title>
+      <image:caption>1 Centime DANIEL-DUPUIS – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/189x_belle_epoque/s_f105_1c_dupuis_revers.gif</image:loc>
+      <image:title>1 Centime DANIEL-DUPUIS – revers de la monnaie française</image:title>
+      <image:caption>1 Centime DANIEL-DUPUIS – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/189x_belle_epoque/s_f110_2c_dupuis_avers.gif</image:loc>
+      <image:title>2 Centimes DANIEL-DUPUIS – avers de la monnaie française</image:title>
+      <image:caption>2 Centimes DANIEL-DUPUIS – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/189x_belle_epoque/s_f110_2c_dupuis_revers.gif</image:loc>
+      <image:title>2 Centimes DANIEL-DUPUIS – revers de la monnaie française</image:title>
+      <image:caption>2 Centimes DANIEL-DUPUIS – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/189x_belle_epoque/s_f119_5c_dupuis_avers.gif</image:loc>
+      <image:title>5 Centimes DANIEL-DUPUIS – avers de la monnaie française</image:title>
+      <image:caption>5 Centimes DANIEL-DUPUIS – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/189x_belle_epoque/s_f119_5c_dupuis_revers.gif</image:loc>
+      <image:title>5 Centimes DANIEL-DUPUIS – revers de la monnaie française</image:title>
+      <image:caption>5 Centimes DANIEL-DUPUIS – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/189x_belle_epoque/s_f168_25c_patey1_avers.gif</image:loc>
+      <image:title>25 Centimes PATEY 1er TYPE – avers de la monnaie française</image:title>
+      <image:caption>25 Centimes PATEY 1er TYPE – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/189x_belle_epoque/s_f168_25c_patey1_revers.gif</image:loc>
+      <image:title>25 Centimes PATEY 1er TYPE – revers de la monnaie française</image:title>
+      <image:caption>25 Centimes PATEY 1er TYPE – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/189x_belle_epoque/s_f169_25c_patey2_avers.gif</image:loc>
+      <image:title>25 Centimes PATEY 2e TYPE – avers de la monnaie française</image:title>
+      <image:caption>25 Centimes PATEY 2e TYPE – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/189x_belle_epoque/s_f169_25c_patey2_revers.gif</image:loc>
+      <image:title>25 Centimes PATEY 2e TYPE – revers de la monnaie française</image:title>
+      <image:caption>25 Centimes PATEY 2e TYPE – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/189x_belle_epoque/s_f190_50c_semeuse_avers.gif</image:loc>
+      <image:title>50 Centimes SEMEUSE – avers de la monnaie française</image:title>
+      <image:caption>50 Centimes SEMEUSE – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/189x_belle_epoque/s_f190_50c_semeuse_revers.gif</image:loc>
+      <image:title>50 Centimes SEMEUSE – revers de la monnaie française</image:title>
+      <image:caption>50 Centimes SEMEUSE – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/189x_belle_epoque/s_f217_1f_semeuse_avers.gif</image:loc>
+      <image:title>1 Franc SEMEUSE – avers de la monnaie française</image:title>
+      <image:caption>1 Franc SEMEUSE – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/189x_belle_epoque/s_f217_1f_semeuse_revers.gif</image:loc>
+      <image:title>1 Franc SEMEUSE – revers de la monnaie française</image:title>
+      <image:caption>1 Franc SEMEUSE – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/189x_belle_epoque/s_f266_2f_semeuse_avers.gif</image:loc>
+      <image:title>2 Francs SEMEUSE – avers de la monnaie française</image:title>
+      <image:caption>2 Francs SEMEUSE – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/189x_belle_epoque/s_f266_2f_semeuse_revers.gif</image:loc>
+      <image:title>2 Francs SEMEUSE – revers de la monnaie française</image:title>
+      <image:caption>2 Francs SEMEUSE – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/189x_belle_epoque/s_f509_10f_avers.gif</image:loc>
+      <image:title>10 Francs OR, COQ – avers de la monnaie française</image:title>
+      <image:caption>10 Francs OR, COQ – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/189x_belle_epoque/s_f509_10f_revers.gif</image:loc>
+      <image:title>10 Francs OR, COQ – revers de la monnaie française</image:title>
+      <image:caption>10 Francs OR, COQ – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/189x_belle_epoque/s_f535_20f_avers.gif</image:loc>
+      <image:title>20 Francs OR, LIBERTE EGALITE FRATERNITE – avers de la monnaie française</image:title>
+      <image:caption>20 Francs OR, LIBERTE EGALITE FRATERNITE – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/189x_belle_epoque/s_f535_20f_revers.gif</image:loc>
+      <image:title>20 Francs OR, LIBERTE EGALITE FRATERNITE – revers de la monnaie française</image:title>
+      <image:caption>20 Francs OR, LIBERTE EGALITE FRATERNITE – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1814_siege_strasbourg.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.6400</priority>
+    <loc>https://monnaiesdelafrance.fr/1917_sortir_de_la_guerre.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1917_sortir_de_la_guerre/avion.gif</image:loc>
+      <image:title>Avion de la Grande Guerre</image:title>
+      <image:caption>Avion de la Grande Guerre</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1917_sortir_de_la_guerre/s_f170_25c_soulign_avers.gif</image:loc>
+      <image:title>25 Centimes LINDAUER Cmes SOULIGNÉ – avers de la monnaie française</image:title>
+      <image:caption>25 Centimes LINDAUER Cmes SOULIGNÉ – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1917_sortir_de_la_guerre/s_f170_25c_soulign_revers.gif</image:loc>
+      <image:title>25 Centimes LINDAUER Cmes SOULIGNÉ – revers de la monnaie française</image:title>
+      <image:caption>25 Centimes LINDAUER Cmes SOULIGNÉ – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1815_louis_xviii_2.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.6400</priority>
+    <loc>https://monnaiesdelafrance.fr/1929_poincare.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1929_franc_poincare/poincare.jpg</image:loc>
+      <image:title>Portrait de Raymond Poincaré, président du Conseil – stabilisation monétaire de 1928</image:title>
+      <image:caption>Portrait de Raymond Poincaré, président du Conseil – stabilisation monétaire de 1928</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1929_franc_poincare/5_cmes_recto_1939.jpg</image:loc>
+      <image:title>5 Centimes LINDAUER – Maillechort – avers de la monnaie française</image:title>
+      <image:caption>5 Centimes LINDAUER – Maillechort – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1929_franc_poincare/5_cmes_verso_1939.jpg</image:loc>
+      <image:title>5 Centimes LINDAUER – Maillechort – revers de la monnaie française</image:title>
+      <image:caption>5 Centimes LINDAUER – Maillechort – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1929_franc_poincare/10_cmes_recto_1939.jpg</image:loc>
+      <image:title>10 Centimes LINDAUER – Maillechort – avers de la monnaie française</image:title>
+      <image:caption>10 Centimes LINDAUER – Maillechort – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1929_franc_poincare/10_cmes_verso_1939.jpg</image:loc>
+      <image:title>10 Centimes LINDAUER – Maillechort – revers de la monnaie française</image:title>
+      <image:caption>10 Centimes LINDAUER – Maillechort – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1929_franc_poincare/25_cmes_recto_1939.jpg</image:loc>
+      <image:title>25 Centimes LINDAUER – Maillechort – avers de la monnaie française</image:title>
+      <image:caption>25 Centimes LINDAUER – Maillechort – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1929_franc_poincare/25_cmes_verso_1939.jpg</image:loc>
+      <image:title>25 Centimes LINDAUER – Maillechort – revers de la monnaie française</image:title>
+      <image:caption>25 Centimes LINDAUER – Maillechort – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1929_franc_poincare/50_cmes_recto_1939.jpg</image:loc>
+      <image:title>50 Centimes MORLON – avers de la monnaie française</image:title>
+      <image:caption>50 Centimes MORLON – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1929_franc_poincare/50_cmes_verso_1939.jpg</image:loc>
+      <image:title>50 Centimes MORLON – revers de la monnaie française</image:title>
+      <image:caption>50 Centimes MORLON – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1929_franc_poincare/1_franc_morlon_recto_1933.jpg</image:loc>
+      <image:title>1 Franc MORLON – avers de la monnaie française</image:title>
+      <image:caption>1 Franc MORLON – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1929_franc_poincare/1_franc_morlon_verso_1933.jpg</image:loc>
+      <image:title>1 Franc MORLON – revers de la monnaie française</image:title>
+      <image:caption>1 Franc MORLON – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1929_franc_poincare/2_franc_morlon_recto_1933.jpg</image:loc>
+      <image:title>2 Francs MORLON – avers de la monnaie française</image:title>
+      <image:caption>2 Francs MORLON – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1929_franc_poincare/2_franc_morlon_verso_1933.jpg</image:loc>
+      <image:title>2 Francs MORLON – revers de la monnaie française</image:title>
+      <image:caption>2 Francs MORLON – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1929_franc_poincare/5_Francs_recto_BAZOR_1933.jpg</image:loc>
+      <image:title>5 Francs BAZOR – avers de la monnaie française</image:title>
+      <image:caption>5 Francs BAZOR – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1929_franc_poincare/5_Francs_verso_BAZOR_1933.jpg</image:loc>
+      <image:title>5 Francs BAZOR – revers de la monnaie française</image:title>
+      <image:caption>5 Francs BAZOR – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1929_franc_poincare/5_francs_Lavrillier_recto_1933.jpg</image:loc>
+      <image:title>5 Francs LAVRILLIER – Nickel – avers de la monnaie française</image:title>
+      <image:caption>5 Francs LAVRILLIER – Nickel – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1929_franc_poincare/5_francs_Lavrillier_recto_1933.jpg</image:loc>
+      <image:title>5 Francs LAVRILLIER – Nickel – revers de la monnaie française</image:title>
+      <image:caption>5 Francs LAVRILLIER – Nickel – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1929_franc_poincare/5_Francs_LAVRILLIER_recto_Bronze-aluminium_1940.jpg</image:loc>
+      <image:title>5 Francs LAVRILLIER – Bronze-aluminium – avers de la monnaie française</image:title>
+      <image:caption>5 Francs LAVRILLIER – Bronze-aluminium – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1929_franc_poincare/5_Francs_LAVRILLIER_verso_Bronze-aluminium_1940.jpg</image:loc>
+      <image:title>5 Francs LAVRILLIER – Bronze-aluminium – revers de la monnaie française</image:title>
+      <image:caption>5 Francs LAVRILLIER – Bronze-aluminium – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1929_franc_poincare/10_Francs_TURIN_recto_1930.jpg</image:loc>
+      <image:title>10 Francs TURIN – avers de la monnaie française</image:title>
+      <image:caption>10 Francs TURIN – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1929_franc_poincare/10_Francs_TURIN_verso_1930.jpg</image:loc>
+      <image:title>10 Francs TURIN – revers de la monnaie française</image:title>
+      <image:caption>10 Francs TURIN – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1929_franc_poincare/20_Francs_TURIN_recto_1933.jpg</image:loc>
+      <image:title>20 Francs TURIN – avers de la monnaie française</image:title>
+      <image:caption>20 Francs TURIN – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1929_franc_poincare/20_Francs_TURIN_verso_1933.jpg</image:loc>
+      <image:title>20 Francs TURIN – revers de la monnaie française</image:title>
+      <image:caption>20 Francs TURIN – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1824_charles_x.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.6400</priority>
+    <loc>https://monnaiesdelafrance.fr/192x_monnaies_necessite.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1852_second_empire.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.6400</priority>
+    <loc>https://monnaiesdelafrance.fr/1940_etat_francais.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1940_etat_francais/petain.jpg</image:loc>
+      <image:title>Maréchal Pétain</image:title>
+      <image:caption>Maréchal Pétain</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1917_sortir_de_la_guerre.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.6400</priority>
+    <loc>https://monnaiesdelafrance.fr/1944_gouvernement_provisoire.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1944_gvt_provisoire/liberation.jpg</image:loc>
+      <image:title>Libération</image:title>
+      <image:caption>Libération</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1944_gvt_provisoire/s_f271_2f_philadelphie_avers.jpg</image:loc>
+      <image:title>2 Francs FRANCE LIBRE – avers de la monnaie française</image:title>
+      <image:caption>2 Francs FRANCE LIBRE – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1944_gvt_provisoire/s_f271_2f_philadelphie_revers.jpg</image:loc>
+      <image:title>2 Francs FRANCE LIBRE – revers de la monnaie française</image:title>
+      <image:caption>2 Francs FRANCE LIBRE – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1944_gvt_provisoire/s_f337_5f_Lavrillier_br_alu_avers.jpg</image:loc>
+      <image:title>5 Francs LAVRILLIER Bronze-Alu – avers de la monnaie française</image:title>
+      <image:caption>5 Francs LAVRILLIER Bronze-Alu – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1944_gvt_provisoire/s_f337_5f_Lavrillier_br_alu_revers.jpg</image:loc>
+      <image:title>5 Francs LAVRILLIER Bronze-Alu – revers de la monnaie française</image:title>
+      <image:caption>5 Francs LAVRILLIER Bronze-Alu – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1944_gvt_provisoire/s_f361_10f_turin_avers.jpg</image:loc>
+      <image:title>10 Francs TURIN, GROSSE TETE – avers de la monnaie française</image:title>
+      <image:caption>10 Francs TURIN, GROSSE TETE – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1944_gvt_provisoire/s_f361_10f_turin_revers.jpg</image:loc>
+      <image:title>10 Francs TURIN, GROSSE TETE – revers de la monnaie française</image:title>
+      <image:caption>10 Francs TURIN, GROSSE TETE – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1929_poincare.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.6400</priority>
+    <loc>https://monnaiesdelafrance.fr/1946_quatrieme_republique.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1946_quatrieme_republique/s_f269_2f_morlon_alu_avers.jpg</image:loc>
+      <image:title>2 Francs MORLON – avers de la monnaie française</image:title>
+      <image:caption>2 Francs MORLON – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1946_quatrieme_republique/s_f269_2f_morlon_alu_revers.jpg</image:loc>
+      <image:title>2 Francs MORLON – revers de la monnaie française</image:title>
+      <image:caption>2 Francs MORLON – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1946_quatrieme_republique/s_f339_5f_lavrillier_avers.jpg</image:loc>
+      <image:title>5 Francs LAVRILLIER – avers de la monnaie française</image:title>
+      <image:caption>5 Francs LAVRILLIER – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1946_quatrieme_republique/s_f339_5f_lavrillier_revers.jpg</image:loc>
+      <image:title>5 Francs LAVRILLIER – revers de la monnaie française</image:title>
+      <image:caption>5 Francs LAVRILLIER – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1946_quatrieme_republique/s_f363_10f_guiraud_avers.jpg</image:loc>
+      <image:title>10 Francs GUIRAUD – avers de la monnaie française</image:title>
+      <image:caption>10 Francs GUIRAUD – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1946_quatrieme_republique/s_f363_10f_guiraud_revers.jpg</image:loc>
+      <image:title>10 Francs GUIRAUD – revers de la monnaie française</image:title>
+      <image:caption>10 Francs GUIRAUD – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1946_quatrieme_republique/s_f450_100f_cochet_avers.jpg</image:loc>
+      <image:title>100 Francs COCHET – avers de la monnaie française</image:title>
+      <image:caption>100 Francs COCHET – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1946_quatrieme_republique/s_f450_100f_cochet_revers.jpg</image:loc>
+      <image:title>100 Francs COCHET – revers de la monnaie française</image:title>
+      <image:caption>100 Francs COCHET – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1958_cinquieme_republique.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.6400</priority>
+    <loc>https://monnaiesdelafrance.fr/1958_cinquieme_republique.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1958_cinquieme_republique/logo_republique.jpg</image:loc>
+      <image:title>République française</image:title>
+      <image:caption>République française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1958_cinquieme_republique/s_f106_1c_epi_avers.jpg</image:loc>
+      <image:title>1 Centime EPI – avers de la monnaie française</image:title>
+      <image:caption>1 Centime EPI – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1958_cinquieme_republique/s_f106_1c_epi_revers.jpg</image:loc>
+      <image:title>1 Centime EPI – revers de la monnaie française</image:title>
+      <image:caption>1 Centime EPI – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1958_cinquieme_republique/s_f124_5c_epi_avers.jpg</image:loc>
+      <image:title>5 Centimes EPI – avers de la monnaie française</image:title>
+      <image:caption>5 Centimes EPI – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1958_cinquieme_republique/s_f124_5c_epi_revers.jpg</image:loc>
+      <image:title>5 Centimes EPI – revers de la monnaie française</image:title>
+      <image:caption>5 Centimes EPI – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1958_cinquieme_republique/s_f144_10c_marianne_avers.jpg</image:loc>
+      <image:title>10 Centimes MARIANNE – avers de la monnaie française</image:title>
+      <image:caption>10 Centimes MARIANNE – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1958_cinquieme_republique/s_f144_10c_marianne_revers.jpg</image:loc>
+      <image:title>10 Centimes MARIANNE – revers de la monnaie française</image:title>
+      <image:caption>10 Centimes MARIANNE – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1958_cinquieme_republique/s_f197_50c_marianne_avers.jpg</image:loc>
+      <image:title>50 Centimes MARIANNE – avers de la monnaie française</image:title>
+      <image:caption>50 Centimes MARIANNE – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1958_cinquieme_republique/s_f197_50c_marianne_revers.jpg</image:loc>
+      <image:title>50 Centimes MARIANNE – revers de la monnaie française</image:title>
+      <image:caption>50 Centimes MARIANNE – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1958_cinquieme_republique/s_f272_2_francs_semeuse_avers.jpg</image:loc>
+      <image:title>2 Francs SEMEUSE – avers de la monnaie française</image:title>
+      <image:caption>2 Francs SEMEUSE – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1958_cinquieme_republique/s_f272_2_francs_semeuse_revers.jpg</image:loc>
+      <image:title>2 Francs SEMEUSE – revers de la monnaie française</image:title>
+      <image:caption>2 Francs SEMEUSE – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1958_cinquieme_republique/s_f341_5f_semeuse_nickel_avers.jpg</image:loc>
+      <image:title>5 Francs SEMEUSE (en nickel) – avers de la monnaie française</image:title>
+      <image:caption>5 Francs SEMEUSE (en nickel) – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1958_cinquieme_republique/s_f341_5f_semeuse_nickel_revers.jpg</image:loc>
+      <image:title>5 Francs SEMEUSE (en nickel) – revers de la monnaie française</image:title>
+      <image:caption>5 Francs SEMEUSE (en nickel) – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1958_cinquieme_republique/s_f365_10_francs_mathieu_avers.jpg</image:loc>
+      <image:title>10 Francs MATHIEU – avers de la monnaie française</image:title>
+      <image:caption>10 Francs MATHIEU – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1958_cinquieme_republique/s_f365_10_francs_mathieu_revers.jpg</image:loc>
+      <image:title>10 Francs MATHIEU – revers de la monnaie française</image:title>
+      <image:caption>10 Francs MATHIEU – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1958_cinquieme_republique/s_f375_10f_genie_avers.jpg</image:loc>
+      <image:title>10 Francs GENIE DE LA BASTILLE – avers de la monnaie française</image:title>
+      <image:caption>10 Francs GENIE DE LA BASTILLE – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1958_cinquieme_republique/s_f375_10f_genie_revers.jpg</image:loc>
+      <image:title>10 Francs GENIE DE LA BASTILLE – revers de la monnaie française</image:title>
+      <image:caption>10 Francs GENIE DE LA BASTILLE – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1958_cinquieme_republique/s_f403_20f_mont_st_michel_avers.jpg</image:loc>
+      <image:title>20 Francs MONT SAINT-MICHEL – avers de la monnaie française</image:title>
+      <image:caption>20 Francs MONT SAINT-MICHEL – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1958_cinquieme_republique/s_f403_20f_mont_st_michel_revers.jpg</image:loc>
+      <image:title>20 Francs MONT SAINT-MICHEL – revers de la monnaie française</image:title>
+      <image:caption>20 Francs MONT SAINT-MICHEL – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1610_louis_xiii.html</loc>
-       <lastmod>2026-09-13T20:58:45+00:00</lastmod>
-       <priority>0.5120</priority>
+    <loc>https://monnaiesdelafrance.fr/1958_commemoratives.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1958_commemoratives/s_f227_1f_de_gaulle_avers.gif</image:loc>
+      <image:title>1 Franc DE GAULLE – avers de la monnaie française</image:title>
+      <image:caption>1 Franc DE GAULLE – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1958_commemoratives/s_f227_1f_de_gaulle_revers.gif</image:loc>
+      <image:title>1 Franc DE GAULLE – revers de la monnaie française</image:title>
+      <image:caption>1 Franc DE GAULLE – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1958_commemoratives/s_f228_1f_etats_generaux_avers.gif</image:loc>
+      <image:title>1 Franc ETATS GENERAUX – avers de la monnaie française</image:title>
+      <image:caption>1 Franc ETATS GENERAUX – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1958_commemoratives/s_f228_1f_etats_generaux_revers.gif</image:loc>
+      <image:title>1 Franc ETATS GENERAUX – revers de la monnaie française</image:title>
+      <image:caption>1 Franc ETATS GENERAUX – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1958_commemoratives/s_f229_1f_republique_avers.gif</image:loc>
+      <image:title>1 Franc REPUBLIQUE – avers de la monnaie française</image:title>
+      <image:caption>1 Franc REPUBLIQUE – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1958_commemoratives/s_f229_1f_republique_revers.gif</image:loc>
+      <image:title>1 Franc REPUBLIQUE – revers de la monnaie française</image:title>
+      <image:caption>1 Franc REPUBLIQUE – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1958_commemoratives/s_f230_1f_institut_avers.gif</image:loc>
+      <image:title>1 Franc INSTITUT DE FRANCE – avers de la monnaie française</image:title>
+      <image:caption>1 Franc INSTITUT DE FRANCE – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1958_commemoratives/s_f230_1f_institut_revers.gif</image:loc>
+      <image:title>1 Franc INSTITUT DE FRANCE – revers de la monnaie française</image:title>
+      <image:caption>1 Franc INSTITUT DE FRANCE – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1958_commemoratives/s_f231_1f_rueff_avers.gif</image:loc>
+      <image:title>1 Franc J. RUEFF – avers de la monnaie française</image:title>
+      <image:caption>1 Franc J. RUEFF – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1958_commemoratives/s_f231_1f_rueff_revers.gif</image:loc>
+      <image:title>1 Franc J. RUEFF – revers de la monnaie française</image:title>
+      <image:caption>1 Franc J. RUEFF – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1715_louis_xv.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.5120</priority>
+    <loc>https://monnaiesdelafrance.fr/2002_euro.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/2002_euro/logo.gif</image:loc>
+      <image:title>Logo euro</image:title>
+      <image:caption>Logo euro</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/2002_euro/001_1_cent_avers.gif</image:loc>
+      <image:title>1 centime – avers de la monnaie française</image:title>
+      <image:caption>1 centime – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/2002_euro/001_1_cent_revers.gif</image:loc>
+      <image:title>1 centime – revers de la monnaie française</image:title>
+      <image:caption>1 centime – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/2002_euro/002_2_cents_avers.gif</image:loc>
+      <image:title>2 centimes – avers de la monnaie française</image:title>
+      <image:caption>2 centimes – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/2002_euro/002_2_cents_revers.gif</image:loc>
+      <image:title>2 centimes – revers de la monnaie française</image:title>
+      <image:caption>2 centimes – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/2002_euro/005_5_cents_avers.gif</image:loc>
+      <image:title>5 centimes – avers de la monnaie française</image:title>
+      <image:caption>5 centimes – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/2002_euro/005_5_cents_revers.gif</image:loc>
+      <image:title>5 centimes – revers de la monnaie française</image:title>
+      <image:caption>5 centimes – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/2002_euro/010_10_cents_avers.gif</image:loc>
+      <image:title>10 centimes – avers de la monnaie française</image:title>
+      <image:caption>10 centimes – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/2002_euro/010_10_cents_revers.gif</image:loc>
+      <image:title>10 centimes – revers de la monnaie française</image:title>
+      <image:caption>10 centimes – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/2002_euro/020_20_cents_avers.gif</image:loc>
+      <image:title>20 centimes – avers de la monnaie française</image:title>
+      <image:caption>20 centimes – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/2002_euro/020_20_cents_revers.gif</image:loc>
+      <image:title>20 centimes – revers de la monnaie française</image:title>
+      <image:caption>20 centimes – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/2002_euro/050_50_cents_avers.gif</image:loc>
+      <image:title>50 centimes – avers de la monnaie française</image:title>
+      <image:caption>50 centimes – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/2002_euro/050_50_cents_revers.gif</image:loc>
+      <image:title>50 centimes – revers de la monnaie française</image:title>
+      <image:caption>50 centimes – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/2002_euro/100_1_euro_avers.gif</image:loc>
+      <image:title>1 euro – avers de la monnaie française</image:title>
+      <image:caption>1 euro – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/2002_euro/100_1_euro_revers.gif</image:loc>
+      <image:title>1 euro – revers de la monnaie française</image:title>
+      <image:caption>1 euro – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/2002_euro/200_2_euros_avers.gif</image:loc>
+      <image:title>2 euros – avers de la monnaie française</image:title>
+      <image:caption>2 euros – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/2002_euro/200_2_euros_revers.gif</image:loc>
+      <image:title>2 euros – revers de la monnaie française</image:title>
+      <image:caption>2 euros – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1815_siege_strasbourg.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.5120</priority>
+    <loc>https://monnaiesdelafrance.fr/</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/banner.jpg</image:loc>
+      <image:title>Bannière Monnaies &amp; Trésors – collection de monnaies anciennes françaises, louis d' title=</image:title>
+      <image:caption>Bannière Monnaies &amp; Trésors – collection de monnaies anciennes françaises, louis d' title=</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1870_troisieme_republique.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.5120</priority>
+    <loc>https://monnaiesdelafrance.fr/lexique.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/189x_belle_epoque.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.5120</priority>
+    <loc>https://monnaiesdelafrance.fr/liens.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1940_etat_francais.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.5120</priority>
+    <loc>https://monnaiesdelafrance.fr/nouveautes.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1574_henri_iii/s_douzain_2H_c1450_avers.gif</image:loc>
+      <image:title>Douzain avers</image:title>
+      <image:caption>Douzain avers</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1574_henri_iii/s_douzain_2H_c1450_revers.gif</image:loc>
+      <image:title>Douzain revers</image:title>
+      <image:caption>Douzain revers</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1946_quatrieme_republique.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.5120</priority>
+    <loc>https://monnaiesdelafrance.fr/poids_des_monnaies.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/poids/s_balance2.jpg</image:loc>
+      <image:title>Balance 1</image:title>
+      <image:caption>Balance 1</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/poids/s_balance1.jpg</image:loc>
+      <image:title>Balance 2</image:title>
+      <image:caption>Balance 2</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/poids/s_balance3.jpg</image:loc>
+      <image:title>Balance 3</image:title>
+      <image:caption>Balance 3</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/poids/s_pm_xx1_avers.gif</image:loc>
+      <image:title>Poids avers</image:title>
+      <image:caption>Poids avers</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/poids/s_pm_xx1_revers.gif</image:loc>
+      <image:title>Poids revers</image:title>
+      <image:caption>Poids revers</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/poids/s_pm_henri_demi_teston_avers.gif</image:loc>
+      <image:title>Demi-teston</image:title>
+      <image:caption>Demi-teston</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/poids/s_pm_henri_demi_teston_revers.gif</image:loc>
+      <image:title>Demi-teston</image:title>
+      <image:caption>Demi-teston</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/poids/s_pm_henri_teston_avers.gif</image:loc>
+      <image:title>Teston</image:title>
+      <image:caption>Teston</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/poids/s_pm_henri_teston_revers.gif</image:loc>
+      <image:title>Teston</image:title>
+      <image:caption>Teston</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/poids/s_pm_louis_ecu_lauriers_haut.gif</image:loc>
+      <image:title>Écu lauriers</image:title>
+      <image:caption>Écu lauriers</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/poids/s_pm_louis_ecu_lauriers_bas.gif</image:loc>
+      <image:title>Écu lauriers</image:title>
+      <image:caption>Écu lauriers</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1643_louis_xiv.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.4096</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/1944_gouvernement_provisoire.html</loc>
-       <lastmod>2026-09-13T20:58:44+00:00</lastmod>
-       <priority>0.4096</priority>
+    <loc>https://monnaiesdelafrance.fr/technique_fabrication.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/techniques_frappe/s_frappe_marteau.jpg</image:loc>
+      <image:title>Frappe au marteau</image:title>
+      <image:caption>Frappe au marteau</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/techniques_frappe/s_frappe_balancier.jpg</image:loc>
+      <image:title>Balancier du XVIIe siècle</image:title>
+      <image:caption>Balancier du XVIIe siècle</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/techniques_frappe/s_frappe_presse.jpg</image:loc>
+      <image:title>Presse monétaire de Thonnelier</image:title>
+      <image:caption>Presse monétaire de Thonnelier</image:caption>
+    </image:image>
   </url>
 </urlset>
