@@ -1,235 +1,171 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-       <loc>https://monnaiesdelafrance.fr/</loc>
-       <lastmod>2026-09-15T19:21:58+00:00</lastmod>
-       <priority>1.0000</priority>
+    <loc>https://monnaiesdelafrance.fr/1515_francois_ier.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1515_francois_ier/portrait.jpg</image:loc>
+      <image:title>Portrait de François Ier, roi de France (1515-1547)</image:title>
+      <image:caption>Portrait de François Ier, roi de France (1515-1547)</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1515_francois_ier/s_double_tournois_c1184_avers.gif</image:loc>
+      <image:title>Double tournois à la croisette, 1er type – avers de la monnaie française</image:title>
+      <image:caption>Double tournois à la croisette, 1er type – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1515_francois_ier/s_double_tournois_c1184_revers.gif</image:loc>
+      <image:title>Double tournois à la croisette, 1er type – revers de la monnaie française</image:title>
+      <image:caption>Double tournois à la croisette, 1er type – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/index.html</loc>
-       <lastmod>2026-09-15T19:21:58+00:00</lastmod>
-       <priority>0.8000</priority>
+    <loc>https://monnaiesdelafrance.fr/1547_henri_ii.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1547_henri_ii/portrait.jpg</image:loc>
+      <image:title>Portrait de Henri II, roi de France (1547-1559)</image:title>
+      <image:caption>Portrait de Henri II, roi de France (1547-1559)</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1547_henri_ii/s_teston_avers.gif</image:loc>
+      <image:title>Teston, 2e type – avers de la monnaie française</image:title>
+      <image:caption>Teston, 2e type – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1547_henri_ii/s_teston_revers.gif</image:loc>
+      <image:title>Teston, 2e type – revers de la monnaie française</image:title>
+      <image:caption>Teston, 2e type – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1547_henri_ii/s_c1305_douzain_croissants_avers.gif</image:loc>
+      <image:title>Douzain aux croissants – avers de la monnaie française</image:title>
+      <image:caption>Douzain aux croissants – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1547_henri_ii/s_c1305_douzain_croissants_revers.gif</image:loc>
+      <image:title>Douzain aux croissants – revers de la monnaie française</image:title>
+      <image:caption>Douzain aux croissants – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1574_henri_iii.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.8000</priority>
+    <loc>https://monnaiesdelafrance.fr/1559_francois_ii.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1559_francois_ii/portrait.jpg</image:loc>
+      <image:title>Portrait de François II, roi de France (1559-1560)</image:title>
+      <image:caption>Portrait de François II, roi de France (1559-1560)</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1515_francois_ier.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.8000</priority>
+    <loc>https://monnaiesdelafrance.fr/1560_charles_ix.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1560_charles_ix/portrait.jpg</image:loc>
+      <image:title>Portrait de Charles IX, roi de France (1560-1574)</image:title>
+      <image:caption>Portrait de Charles IX, roi de France (1560-1574)</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1560_charles_ix/s_c1356_teston_type2_avers.gif</image:loc>
+      <image:title>Teston, 2e type – avers de la monnaie française</image:title>
+      <image:caption>Teston, 2e type – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1560_charles_ix/s_c1356_teston_type2_revers.gif</image:loc>
+      <image:title>Teston, 2e type – revers de la monnaie française</image:title>
+      <image:caption>Teston, 2e type – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1547_henri_ii.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.8000</priority>
+    <loc>https://monnaiesdelafrance.fr/1574_henri_iii.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1574_henri_iii/portrait.jpg</image:loc>
+      <image:title>Portrait de Henri III, roi de France (1574-1589)</image:title>
+      <image:caption>Portrait de Henri III, roi de France (1574-1589)</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1574_henri_iii/s_quart_ecu_c1483_avers.gif</image:loc>
+      <image:title>Quart d'écu – avers de la monnaie française</image:title>
+      <image:caption>Quart d'écu – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1574_henri_iii/s_quart_ecu_c1483_revers.gif</image:loc>
+      <image:title>Quart d'écu – revers de la monnaie française</image:title>
+      <image:caption>Quart d'écu – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1574_henri_iii/s_douzain_2H_c1450_avers.gif</image:loc>
+      <image:title>Douzain aux deux H, 1er type – avers de la monnaie française</image:title>
+      <image:caption>Douzain aux deux H, 1er type – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1574_henri_iii/s_douzain_2H_c1450_revers.gif</image:loc>
+      <image:title>Douzain aux deux H, 1er type – revers de la monnaie française</image:title>
+      <image:caption>Douzain aux deux H, 1er type – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1589_henri_iv.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.8000</priority>
+    <loc>https://monnaiesdelafrance.fr/1589_henri_iv.html</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1589_henri_iv/portrait.jpg</image:loc>
+      <image:title>Portrait de Henri IV, roi de France (1589-1610)</image:title>
+      <image:caption>Portrait de Henri IV, roi de France (1589-1610)</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1589_henri_iv/s_demi_franc_c1534_avers.gif</image:loc>
+      <image:title>Demi-franc, type de Toulouse – avers de la monnaie française</image:title>
+      <image:caption>Demi-franc, type de Toulouse – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1589_henri_iv/s_demi_franc_c1534_revers.gif</image:loc>
+      <image:title>Demi-franc, type de Toulouse – revers de la monnaie française</image:title>
+      <image:caption>Demi-franc, type de Toulouse – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1859_henri_iv/s_quart_ecu_c1517_avers.gif</image:loc>
+      <image:title>Quart d'écu – avers de la monnaie française</image:title>
+      <image:caption>Quart d'écu – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1589_henri_iv/s_quart_ecu_c1517_revers.gif</image:loc>
+      <image:title>Quart d'écu – revers de la monnaie française</image:title>
+      <image:caption>Quart d'écu – revers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1589_henri_iv/s_c1576_double_tournois_avers.gif</image:loc>
+      <image:title>Double tournois, 1er type de Paris (légende française) – avers de la monnaie française</image:title>
+      <image:caption>Double tournois, 1er type de Paris (légende française) – avers de la monnaie française</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/images/1589_henri_iv/s_c1576_double_tournois_revers.gif</image:loc>
+      <image:title>Double tournois, 1er type de Paris (légende française) – revers de la monnaie française</image:title>
+      <image:caption>Double tournois, 1er type de Paris (légende française) – revers de la monnaie française</image:caption>
+    </image:image>
   </url>
   <url>
-       <loc>https://monnaiesdelafrance.fr/1791_constitution.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/1792_convention.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/1804_premier_empire.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/1814_louis_xviii.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/1830_louis_philippe.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/1848_deuxieme_republique.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/192x_monnaies_necessite.html</loc>
-       <lastmod>2026-09-15T19:21:58+00:00</lastmod>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/1958_commemoratives.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/2002_euro.html</loc>
-       <lastmod>2026-09-15T19:21:58+00:00</lastmod>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/lexique.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/liens.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/nouveautes.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/technique_fabrication.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/poids_des_monnaies.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/1560_charles_ix.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/1559_francois_ii.html</loc>
-       <lastmod>2026-09-15T19:21:58+00:00</lastmod>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/1590_charles_x_ligue.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/1774_louis_xvi.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/1789_assignats.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/1793_siege_mayence.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/1795_directoire.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/1799_consulat.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/1814_siege_anvers.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/1815_cent_jours.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/1814_siege_strasbourg.html</loc>
-       <lastmod>2026-09-15T19:21:58+00:00</lastmod>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/1815_louis_xviii_2.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/1824_charles_x.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/1852_second_empire.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/1917_sortir_de_la_guerre.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/1929_poincare.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/1958_cinquieme_republique.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/1610_louis_xiii.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.5120</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/1715_louis_xv.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.5120</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/1815_siege_strasbourg.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.5120</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/1870_troisieme_republique.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.5120</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/189x_belle_epoque.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.5120</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/1940_etat_francais.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.5120</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/1946_quatrieme_republique.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.5120</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/1643_louis_xiv.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.4096</priority>
-  </url>
-  <url>
-       <loc>https://monnaiesdelafrance.fr/1944_gouvernement_provisoire.html</loc>
-       <lastmod>2026-09-15T19:21:57+00:00</lastmod>
-       <priority>0.4096</priority>
+    <loc>https://monnaiesdelafrance.fr/</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://monnaiesdelafrance.fr/banner.jpg</image:loc>
+      <image:title>Bannière Monnaies et Trésors – collection de monnaies anciennes françaises</image:title>
+      <image:caption>Bannière Monnaies et Trésors – collection de monnaies anciennes françaises</image:caption>
+    </image:image>
   </url>
 </urlset>
