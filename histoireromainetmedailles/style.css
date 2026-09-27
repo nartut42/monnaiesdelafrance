@@ -1,0 +1,443 @@
+:root {
+    --gold-primary: #d4af37;
+    --gold-light: #f3e5ab;
+    --gold-dark: #997a15;
+    --purple-imperial: #4a0e17;
+    --bg-dark: #110e0c;
+    --bg-card: #1a1612;
+    --bg-card-hover: #241e19;
+    --text-main: #f0ebe1;
+    --text-sub: #b8ac99;
+    --border-gold: rgba(212, 175, 55, 0.35);
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+    background-color: var(--bg-dark);
+    color: var(--text-main);
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.7;
+}
+
+/* Header & Banner Image */
+.main-header {
+    background: #0b0b0e;
+    border-bottom: 2px solid var(--gold-primary);
+}
+
+.banner-container {
+    width: 100%;
+    max-width: 1400px;
+    margin: 0 auto;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    background: #110e0c;
+}
+
+.banner-image {
+    width: 100%;
+    height: auto;
+    max-height: 380px;
+    object-fit: cover;
+    display: block;
+}
+
+/* Navigation */
+.navbar {
+    background: rgba(26, 22, 18, 0.95);
+    border-top: 1px solid var(--border-gold);
+    border-bottom: 1px solid var(--border-gold);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+.nav-menu {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    flex-wrap: wrap;
+}
+.nav-menu li { position: relative; }
+.nav-menu a {
+    display: block;
+    padding: 14px 18px;
+    color: var(--text-main);
+    text-decoration: none;
+    font-family: 'Cinzel', serif;
+    font-size: 0.85rem;
+    letter-spacing: 0.5px;
+    transition: all 0.3s ease;
+}
+.nav-menu a:hover, .nav-menu li.active > a {
+    color: var(--gold-primary);
+    background: rgba(212, 175, 55, 0.1);
+}
+
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: #1a1612;
+    border: 1px solid var(--border-gold);
+    min-width: 260px;
+    list-style: none;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.8);
+}
+.dropdown:hover > .dropdown-menu { display: block; }
+.dropdown-menu a { padding: 10px 15px; border-bottom: 1px solid rgba(212,175,55,0.1); }
+
+/* AdSense Banners */
+.adsense-wrapper {
+    max-width: 1100px;
+    margin: 25px auto;
+    padding: 10px;
+    background: rgba(255, 255, 255, 0.02);
+    border: 1px dashed var(--border-gold);
+    border-radius: 6px;
+    text-align: center;
+}
+
+/* Hero Section */
+.hero-section {
+    max-width: 1200px;
+    margin: 30px auto;
+    padding: 40px 30px;
+    background: linear-gradient(135deg, rgba(74, 14, 23, 0.4) 0%, rgba(26, 22, 18, 0.8) 100%);
+    border: 1px solid var(--border-gold);
+    border-radius: 8px;
+    text-align: center;
+}
+.hero-section h2 {
+    font-family: 'Cinzel', serif;
+    font-size: 1.8rem;
+    color: var(--gold-primary);
+    margin-bottom: 15px;
+}
+.hero-section p {
+    font-size: 1.05rem;
+    color: var(--text-sub);
+    max-width: 950px;
+    margin: 0 auto;
+    line-height: 1.8;
+}
+
+/* Main Layout & Cards */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.page-title {
+    font-family: 'Cinzel', serif;
+    color: var(--gold-primary);
+    font-size: 2rem;
+    text-align: center;
+    margin: 30px 0 10px 0;
+}
+.page-subtitle {
+    text-align: center;
+    color: var(--text-sub);
+    font-size: 1.05rem;
+    margin-bottom: 40px;
+}
+
+.section-header {
+    text-align: center;
+    margin: 50px 0 30px 0;
+}
+.section-header h2 {
+    font-family: 'Cinzel', serif;
+    font-size: 1.8rem;
+    color: var(--gold-primary);
+    position: relative;
+    display: inline-block;
+    padding-bottom: 10px;
+}
+.section-header h2::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 25%;
+    width: 50%;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, var(--gold-primary), transparent);
+}
+
+.sections-grid, .grid-chapters {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 25px;
+}
+
+.volume-card, .chapter-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border-gold);
+    border-radius: 8px;
+    padding: 25px;
+    transition: all 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.volume-card:hover, .chapter-card:hover {
+    background: var(--bg-card-hover);
+    transform: translateY(-4px);
+    box-shadow: 0 10px 25px rgba(212, 175, 55, 0.15);
+    border-color: var(--gold-primary);
+}
+.volume-card h3, .chapter-card h3 {
+    font-family: 'Cinzel', serif;
+    color: var(--gold-primary);
+    font-size: 1.25rem;
+    margin-bottom: 10px;
+    border-bottom: 1px solid rgba(212, 175, 55, 0.2);
+    padding-bottom: 8px;
+}
+.volume-card p, .chapter-card p {
+    color: var(--text-sub);
+    font-size: 0.95rem;
+    margin-bottom: 15px;
+    flex-grow: 1;
+}
+.volume-card .chapter-list {
+    list-style: none;
+    margin-bottom: 15px;
+}
+.volume-card .chapter-list li {
+    font-size: 0.88rem;
+    color: var(--text-main);
+    padding: 4px 0;
+    border-bottom: 1px dotted rgba(255,255,255,0.05);
+}
+.volume-card .btn-explore, .chapter-card a.read-btn {
+    display: inline-block;
+    text-align: center;
+    background: linear-gradient(135deg, var(--gold-dark), var(--gold-primary));
+    color: #000;
+    font-family: 'Cinzel', serif;
+    font-weight: 700;
+    font-size: 0.85rem;
+    padding: 10px 15px;
+    border-radius: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: background 0.3s ease;
+}
+.volume-card .btn-explore:hover, .chapter-card a.read-btn:hover {
+    background: linear-gradient(135deg, var(--gold-primary), var(--gold-light));
+}
+
+/* Footer */
+.main-footer {
+    background: #090706;
+    border-top: 2px solid var(--gold-primary);
+    padding: 40px 20px;
+    margin-top: 60px;
+    text-align: center;
+}
+.footer-links {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+.footer-links a {
+    color: var(--text-sub);
+    text-decoration: none;
+    font-family: 'Cinzel', serif;
+    font-size: 0.85rem;
+}
+.footer-links a:hover { color: var(--gold-primary); }
+.footer-copy {
+    font-family: 'Cinzel', serif;
+    color: var(--gold-primary);
+    font-size: 0.85rem;
+}
+/* Banner title fallback (sections without image override) */
+.banner-title {
+    text-align: center;
+    padding: 28px 20px 18px;
+    background: linear-gradient(180deg, #0b0b0e 0%, #110e0c 100%);
+}
+.banner-title h1 {
+    font-family: 'Cinzel', serif;
+    font-size: 1.55rem;
+    color: var(--gold-primary);
+    letter-spacing: 1.5px;
+    margin-bottom: 6px;
+}
+.banner-title p {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    color: var(--text-sub);
+    font-size: 1rem;
+}
+
+/* Article pages */
+.article-container {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 30px;
+    background: var(--bg-card);
+    border: 1px solid var(--border-gold);
+    border-radius: 8px;
+}
+.article-container h1,
+.article-container h2 {
+    font-family: 'Cinzel', serif;
+    color: var(--gold-primary);
+    margin-bottom: 20px;
+}
+.article-container p {
+    color: #dcd4c7;
+    margin-bottom: 18px;
+    font-size: 1.05rem;
+    text-align: justify;
+}
+.medal-box {
+    background: rgba(0,0,0,0.3);
+    border: 1px solid var(--border-gold);
+    padding: 20px;
+    margin: 25px 0;
+    border-radius: 6px;
+}
+.medal-box h3 {
+    font-family: 'Cinzel', serif;
+    color: var(--gold-primary);
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+}
+.breadcrumb {
+    font-family: 'Cinzel', serif;
+    font-size: 0.85rem;
+    color: var(--gold-primary);
+    margin-bottom: 20px;
+}
+.breadcrumb a {
+    color: var(--text-sub);
+    text-decoration: none;
+}
+.breadcrumb a:hover {
+    color: var(--gold-primary);
+}
+
+/* Responsive tweaks */
+@media (max-width: 768px) {
+    .banner-image { max-height: 180px; }
+    .nav-menu a { padding: 10px 12px; font-size: 0.78rem; }
+    .page-title { font-size: 1.5rem; }
+    .article-container { margin: 15px 10px; padding: 20px; }
+    .banner-title h1 { font-size: 1.2rem; }
+}
+
+
+/* Maillage — navigation entre chapitres */
+.chapter-nav {
+    max-width: 900px;
+    margin: 40px auto 20px;
+    padding: 0 10px;
+}
+.chapter-nav-prev-next {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-bottom: 28px;
+}
+.chapter-nav-prev-next a {
+    font-family: 'Cinzel', serif;
+    font-size: 0.9rem;
+    color: var(--gold-primary);
+    text-decoration: none;
+    padding: 10px 16px;
+    border: 1px solid var(--border-gold);
+    border-radius: 4px;
+    background: var(--bg-card);
+    transition: background 0.2s, border-color 0.2s;
+}
+.chapter-nav-prev-next a:hover {
+    background: var(--bg-card-hover);
+    border-color: var(--gold-primary);
+}
+.chapter-related {
+    background: var(--bg-card);
+    border: 1px solid var(--border-gold);
+    border-radius: 8px;
+    padding: 20px 24px;
+}
+.chapter-related h3 {
+    font-family: 'Cinzel', serif;
+    color: var(--gold-primary);
+    font-size: 1rem;
+    margin-bottom: 12px;
+    border-bottom: 1px solid rgba(212,175,55,0.2);
+    padding-bottom: 8px;
+}
+.chapter-related ul {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 6px 16px;
+    margin-bottom: 12px;
+}
+.chapter-related li a {
+    color: var(--text-sub);
+    text-decoration: none;
+    font-size: 0.92rem;
+}
+.chapter-related li a:hover { color: var(--gold-primary); }
+.chapter-section-link {
+    margin-top: 8px;
+    font-size: 0.9rem;
+}
+.chapter-section-link a {
+    color: var(--gold-primary);
+    font-family: 'Cinzel', serif;
+    text-decoration: none;
+}
+.chapter-section-link a:hover { text-decoration: underline; }
+
+/* Enrichissement visuel — figures monétaires */
+.coin-figure {
+    margin: 1.8rem auto;
+    max-width: 440px;
+    text-align: center;
+}
+.coin-figure img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    border: 1px solid rgba(201, 162, 39, 0.35);
+    box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+    background: #1a1814;
+}
+.coin-figure figcaption {
+    margin-top: 0.6rem;
+    font-size: 0.85rem;
+    color: var(--text-sub, #b0a898);
+    font-style: italic;
+    line-height: 1.4;
+}
+.coin-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.2rem;
+    margin: 1.8rem 0;
+    max-width: 900px;
+}
+.coin-gallery .coin-figure {
+    margin: 0;
+    max-width: none;
+}
+.coin-gallery img {
+    width: 100%;
+}
+.visual-note {
+    font-size: 0.8rem;
+    color: #8a8070;
+    margin-top: 0.3rem;
+}

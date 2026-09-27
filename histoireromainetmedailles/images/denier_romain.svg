@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" width="400" height="200">
+  <defs>
+    <radialGradient id="silver" cx="40%" cy="35%"><stop offset="0%" stop-color="#f5f0e6"/><stop offset="100%" stop-color="#a8a090"/></radialGradient>
+  </defs>
+  <rect width="400" height="200" fill="#1a1814"/>
+  <circle cx="110" cy="100" r="75" fill="url(#silver)" stroke="#c9a227" stroke-width="2"/>
+  <ellipse cx="110" cy="85" rx="28" ry="35" fill="none" stroke="#5a5040" stroke-width="2"/>
+  <circle cx="110" cy="70" r="8" fill="#5a5040"/>
+  <text x="110" y="155" text-anchor="middle" font-family="serif" font-size="11" fill="#3a3530">ROMA</text>
+  <text x="110" y="195" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#c9a227">Avers</text>
+  <circle cx="290" cy="100" r="75" fill="url(#silver)" stroke="#c9a227" stroke-width="2"/>
+  <path d="M260,100 L290,70 L320,100 L290,130 Z" fill="none" stroke="#5a5040" stroke-width="2"/>
+  <text x="290" y="155" text-anchor="middle" font-family="serif" font-size="10" fill="#3a3530">DENARIVS</text>
+  <text x="290" y="195" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#c9a227">Revers</text>
+</svg>

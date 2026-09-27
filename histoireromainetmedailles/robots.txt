@@ -1,0 +1,28 @@
+# robots.txt — Histoire Romaine Éclaircie par les Médailles
+# https://nartut42.pages-perso.free.fr/Histoireromaineeclaircieparlesmedailles/
+
+User-agent: *
+Allow: /
+
+# Autoriser l'indexation de toutes les pages HTML et ressources
+Allow: /*.html
+Allow: /style.css
+Allow: /bandeau_haut.webp
+Allow: /bandeau_haut.jpg
+Allow: /sitemap.xml
+
+# Ne pas indexer les PDF sources (lourds, contenu déjà repris dans les pages)
+Disallow: /*.pdf
+
+# Sitemap pour Google, Bing, etc.
+Sitemap: https://nartut42.pages-perso.free.fr/Histoireromaineeclaircieparlesmedailles/sitemap.xml
+
+# Bots spécifiques (optionnel, bonnes pratiques)
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 180" width="300" height="180">
+  <rect width="300" height="180" fill="#1a1814"/>
+  <line x1="150" y1="30" x2="150" y2="100" stroke="#c9a227" stroke-width="3"/>
+  <line x1="60" y1="50" x2="240" y2="50" stroke="#c9a227" stroke-width="2"/>
+  <line x1="60" y1="50" x2="60" y2="90" stroke="#a89070" stroke-width="1.5"/>
+  <line x1="240" y1="50" x2="240" y2="90" stroke="#a89070" stroke-width="1.5"/>
+  <ellipse cx="60" cy="100" rx="30" ry="12" fill="#c9a227" opacity="0.8"/>
+  <ellipse cx="240" cy="100" rx="30" ry="12" fill="#a8a090" opacity="0.8"/>
+  <text x="60" y="130" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#c9a227">or / solidus</text>
+  <text x="240" y="130" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#a8a090">argent / denier</text>
+  <text x="150" y="165" text-anchor="middle" font-family="serif" font-size="12" fill="#e8d48b">Étalons monétaires</text>
+</svg>
